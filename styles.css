@@ -231,7 +231,6 @@ body {
 /* Chart SVG Styling */
 #scatterplot-chart svg {
     flex: 1 1 65%;
-    border: 1px solid #ccc;
     border-radius: 8px;
     background: #fefefe;
 }
@@ -245,7 +244,7 @@ body {
 }
 
 #scatterplot-chart img {
-    max-width: 100%;
+    max-width: 80%;
     border-radius: 8px;
     margin-bottom: 10px;
 }
@@ -368,6 +367,7 @@ body {
 
 #global-scatter-section {
     position: relative;
+    margin: 50px;
 }
 
 #chart-global-scatter {
@@ -519,4 +519,10 @@ hr {
     stroke-width: 2px;
   }
   
-  
+  .time-series-charts {
+    margin: 50px;
+  }
+
+  .scatterplot-section {
+    margin: 25px;
+  }
