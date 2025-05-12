@@ -1,0 +1,522 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend');
+
+body {
+    background-color: white;
+    font-family: 'Lexend';
+    margin: 0;
+    padding: 0;
+}
+
+.introduction {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.profile {
+    height: 100vh;
+    padding-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.profile img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.introduction_details {
+    display: flex;
+    width: 100vw;
+}
+
+.info {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 2.5rem;
+    box-sizing: border-box;
+    height: 100vh;
+}
+
+.info>div {
+    text-align: right;
+    /* aligns text within the inner container */
+}
+
+.hook {
+    font-weight: 400;
+    font-size: 75px;
+    color: #000;
+    line-height: 1.1;
+}
+
+.school {
+    font-weight: 700;
+    /* Bold */
+    font-size: 85px;
+    color: #2A9D8F;
+    line-height: 1.1;
+}
+
+.tweets {
+    width: 100%;
+
+}
+
+.step {
+    min-height: 80vh;
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.step.is-active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+.alone-text {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 0;
+}
+
+.tweet {
+    max-width: 90vw;
+    width: 70%;
+    height: auto;
+    display: block;
+}
+
+.tweet.left {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.tweet.right {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.final-paragraph {
+    font-size: 35px;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.shrink-tv {
+    margin: 0;
+    padding: 0;
+}
+
+.shrink-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: none;
+    padding-left: 5vw;
+    padding-right: 5px;
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 85px;
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0;
+}
+
+.school {
+    color: #2A9D8F;
+    font-weight: inherit;
+    text-decoration: none;
+}
+
+.byline {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    max-width: 50vw;
+}
+
+.image img {
+    height: 95vh;
+    width: auto;
+    max-width: unset;
+    object-fit: contain;
+}
+
+.chart-scroll-section {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 5vw;
+    margin-bottom: 100px;
+}
+
+#episode-chart {
+    position: sticky;
+    top: 60px;
+    width: 50%;
+    height: 850px;
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+.scrolly-steps {
+    width: 50%;
+}
+
+.scrolly-steps .step {
+    margin: 80vh 0;
+    padding: 20px;
+    background: #f0f0f0;
+    font-size: 24px;
+    border-left: 5px solid #2A9D8F;
+}
+
+/* Scatterplot Controls */
+#scatterplot-controls {
+    font-family: "Lexend", sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+}
+
+#scatterplot-controls label {
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+#scatterplot-controls select,
+#scatterplot-controls input[type="checkbox"] {
+    cursor: pointer;
+}
+
+/* Scatterplot Chart Wrapper */
+#scatterplot-chart {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+/* Chart SVG Styling */
+#scatterplot-chart svg {
+    flex: 1 1 65%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #fefefe;
+}
+
+/* Info Panel on the right */
+#scatterplot-chart>div:last-child {
+    flex: 1 1 30%;
+    max-width: 320px;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+}
+
+#scatterplot-chart img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+#scatterplot-chart .tooltip {
+    pointer-events: none;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 13px;
+    border-radius: 4px;
+    z-index: 10;
+}
+
+#chart-wrapper {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    gap: 20px;
+}
+
+#chart-wrapper svg {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.info-panel img {
+    max-width: 100%;
+    max-height: 450px;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.info-panel div {
+    margin: 4px 0;
+    font-family: "Lexend", sans-serif;
+}
+
+/* make the controls stick within its parent time-series-panel */
+#time-series-panel {
+    display: flex;
+    flex-direction: row-reverse;
+    /* flip so controls live on the right */
+}
+
+#controls {
+    position: sticky;
+    top: 20px;
+    align-self: start;
+    margin-left: 20px;
+    /* space between controls on right and charts */
+    margin-right: 0;
+    /* remove the old right‑margin */
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#charts {
+    flex: 1;
+}
+
+#controls label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+
+#controls input {
+    margin-right: 6px;
+}
+
+#controls span {
+    flex: 1;
+}
+
+/* #charts {
+    padding-top: 100px;
+  } */
+
+.annotation {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.fade {
+    opacity: 0.1;
+}
+
+/* Tooltip styling */
+#tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    padding: 4px 8px;
+    font-size: 12px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+}
+
+#scatter-plot-section {
+    margin-top: 3rem;
+    padding: 1rem;
+    background: #fafafa;
+    border-radius: 0.5rem;
+}
+
+#chart-global-scatter {
+    position: relative;
+    /* make this the positioning context */
+}
+
+#global-scatter-section {
+    position: relative;
+}
+
+#chart-global-scatter {
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#scatter-filters {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    background: white;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    z-index: 10;
+    pointer-events: auto;
+}
+
+#scatter-filters label {
+    display: block;
+    margin-bottom: 4px;
+    cursor: pointer;
+}
+
+#scatter-filters span.swatch {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 4px;
+    vertical-align: middle;
+}
+
+#search‑box {
+    padding: 0.4rem;
+    width: 200px;
+    font-size: 1rem;
+}
+
+#reset‑btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.svg-chart {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 40px;
+}
+
+.para {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto 30px auto;
+    color: #222;
+    font-family: 'Lexend', sans-serif;
+}
+
+.after-para {
+    margin-top: 50px;
+}
+
+hr {
+    width: 40%;
+    margin: 70px auto;
+    border: none;
+    border-top: 2px solid #2A9D8F;
+    opacity: 0.7;
+}
+
+.mult-scrolly-section {
+    display: flex;
+    padding: 60px 5vw;
+    gap: 40px;
+  }
+  
+  .mult-scrolly-container {
+    display: flex;
+    width: 100%;
+  }
+  
+  .mult-scroll-text {
+    flex: 1;
+    max-width: 35%;
+    padding-right: 20px;
+  }
+  
+  .mult-step {
+    margin-bottom: 50vh;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  
+  .mult-sticky-chart {
+    flex: 1;
+    position: sticky;
+    top: 60px;
+    align-self: flex-start;
+    max-width: 65%;
+  }
+  
+  #multSmallMultiplesChart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #runtime-container,
+  #episodes-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 100%;
+  }
+  
+  .mult-chart {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    transition: opacity 0.4s ease;
+  }
+  
+  .mult-chart svg {
+    width: 110%;
+    height: 210px;
+  }
+  
+  svg text {
+    font-family: 'Lexend', sans-serif;
+  }
+
+  .intro {
+    margin-top: 120px;
+  }
+
+  .hovered {
+    stroke: black;
+    stroke-width: 2px;
+  }
+  
+  

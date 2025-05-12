@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Who Shrunk Television?</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <section class="introduction">
+        <div class="step">
+            <div class="introduction_details">
+                <div class="profile">
+                    <img src="images/intro.jpg" alt="tv show image" />
+                </div>
+                <div class="info">
+                    <div>
+                        <p><a class="hook">Have you ever felt like TV shows are getting...</a></p>
+                        <br><br><br>
+                        <p><b class="school">shorter?</b></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="tweets">
+        <div class="step">
+            <p class="alone-text">Well you aren't alone.</p>
+        </div>
+
+        <div class="step">
+            <img class="tweet right" src="images/tweet_2.png" alt="Tweet #2">
+        </div>
+
+        <div class="step">
+            <img class="tweet left" src="images/tweet_3.png" alt="Tweet #3">
+        </div>
+
+        <div class="step">
+            <p class="final-paragraph">
+                We explored a database of TV show metadata from 2000 to 2024 to find out if shows are truly getting
+                shorter—and if they are, why, and who (or what) might be behind it.
+            </p>
+        </div>
+    </section>
+
+    <section class="shrink-tv">
+        <div class="step">
+            <div class="shrink-details">
+                <div class="content">
+                    <p class="title">
+                        Who <a class="school">Shrunk</a> Television?
+                    </p>
+                    <p class="byline">
+                        By Cameron Fozi (cf3021), Sprihaa Singh (ss6679), Edward Yi (ey2338), and Wilson Zhen (wz2628)
+                    </p>
+                </div>
+                <div class="image">
+                    <img src="images/tv_show_image.png" alt="TV Show Image">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="intro">
+        <p class="para">
+            With the rise of streaming platforms, especially Netflix, there’s been a noticeable shift toward shorter, more “bingeable” seasons. This trend came under sharp focus during the 2023 Writers Guild strike, where writers pointed out that fewer episodes per season meant less pay and fewer opportunities. But beyond the economics, we wanted to explore whether this “TV shrinkage” is real, and if so, what it tells us about broader cultural shifts in how we consume media.
+        </p>
+
+        <p class="para">
+            In our project, we looked at the issue from three angles: critics, networks, and viewers. We found that even Emmy-winning shows have trended toward shorter seasons, suggesting that prestige doesn’t require quantity. Streaming networks are leading the charge, while traditional broadcasters mostly stick to longer formats. Through interactive visuals inspired by platforms like <a href="https://pudding.cool/">The Pudding</a>, we invite you as the user to explore the data and consider the bigger question: is this shift actually better for how we tell and experience stories?
+        </p>
+ 
+    </section>
+
+    <hr>
+    
+    <section class="after-para">
+        <p class="para">With claims about the shrinking nature of American television shows abound, the question becomes
+            whether many audience members’ perception of shrinking series is correct. And if correct, what kinds of
+            shows might be subject to this shrinking?
+        </p>
+        <p class="para">Let’s start with the series that attain critical acclaim — the ones that win one of the two
+            biggest prizes in American television: the Emmy Awards for best comedy series and best drama series.
+        </p>
+        <p class="para">
+            In fact, it seems that over time, Emmy critics have come out with a resounding message: “Quantity does not
+            equal quality.” Since 2000, awards for
+            <span style="color: #7B3F74; font-weight: 800;">Best Drama</span> and
+            <span style="color: #FF5F1F; font-weight: 800;">Best Comedy</span> have been awarded to series that pump out
+            fewer episodes per season.
+        </p>
+    </section>
+
+    <section class="episode-scroller">
+        <div class="step" id="chart-step">
+            <div id="episode-scroll-container"></div>
+        </div>
+    </section>
+
+    <section class="after-para">
+        <p class="para">But since 2000, there have been thousands of television shows released in the U.S., and those
+            that win Emmy Awards may be too small a population to discern any industry-wide trend. So let’s zoom out.
+        </p>
+        <p class="para">Every year, Emmy critics pick out eight nominees for <span
+                style="color: #7B3F74; font-weight: 800;">Best Drama</span> and eight nominees for <span
+                style="color: #FF5F1F; font-weight: 800;">Best Comedy</span>. How might episode count look for Emmy
+            nominees? Check for yourself:
+        </p>
+    </section>
+
+    <section class="scatterplot-section">
+        <h2 style="text-align: center; margin-bottom: 10px;">
+            Emmy Awards Are Going to Series with Shorter Seasons
+          </h2>
+        <div id="scatterplot-controls"></div>
+        <div id="scatterplot-chart"></div>
+    </section>
+
+    <section class="after-para">
+       <p class="para">
+        While Emmy-nominated shows provide a useful lens into what critics value, they represent just a sliver of what’s actually being produced. To understand whether “TV shrinkage” is a widespread industry phenomenon—and not just a quirk of prestige programming—we need to broaden our scope.
+       </p>
+       <p class="para">
+        Let’s examine a cross-section of the U.S. television landscape from 2000 to 2024, focusing on six major networks: 
+        <span style="color:#FF0000;"><strong>ABC</strong></span>, 
+        <span style="color:#FF8C00;"><strong>CBS</strong></span>, 
+        <span style="color:#1E3A8A;"><strong>HBO</strong></span>, 
+        <span style="color:#0084B4;"><strong>NBC</strong></span>, 
+        <span style="color:#E50914;"><strong>Netflix</strong></span>, and 
+        <span style="color:#9B1B30;"><strong>Showtime</strong></span>. 
+        These networks span both legacy broadcasters and streaming newcomers, and they also happen to be some of the most frequent producers of 
+        <span style="color: #2A9D8F; font-weight: 800;">Emmy-nominated and Emmy-winning shows</span>. By looking at their output, we gain a clearer, more representative picture of how television production strategies have evolved across the broader industry.
+      </p>      
+       <p class="para">
+        The charts below show the <span style="color: #2A9D8F; font-weight: 800;">average runtime</span> and <span style="color: #2A9D8F; font-weight: 800;">median number of episodes per season</span> for shows on each network. At first glance, it becomes clear that some networks—particularly streaming services—have moved away from traditional TV formats. Where 20+ episode seasons once dominated, 8–10 episode seasons now seem increasingly common.
+       </p>
+       <p class="para">
+        Scroll through the following steps to explore which networks have decreased, increased, or maintained their show lengths over the past two decades. Hover over each dot to see the exact number of episodes or runtime for a given network and year.
+       </p>
+    </section>
+
+    <section class="mult-scrolly-section">
+        <div class="mult-scrolly-container">
+          <div class="mult-scroll-text">
+            <div class="mult-step" data-step="all">
+                Over the past two decades, episode lengths and runtimes have shifted across all major networks. But not all networks are changing in the same way—or in the same direction.
+              </div>
+        
+              <div class="mult-step" data-step="decrease-runtime">
+                <span style="color:#FF0000;">ABC</span>, <span style="color:#FF8C00;">CBS</span>, and <span style="color:#E50914;">Netflix</span> have steadily reduced the average runtime of their shows. These changes reflect a shift toward tighter, faster-paced storytelling.
+              </div>
+        
+              <div class="mult-step" data-step="increase-runtime">
+                <span style="color:#1E3A8A;">HBO</span>, <span style="color:#0084B4;">NBC</span>, and <span style="color:#9B1B30;">Showtime</span> have kept their runtimes relatively stable—or even slightly increased them—favoring more expansive formats.
+              </div>
+        
+              <div class="mult-step" data-step="all-episodes">
+                When we switch to episode count, a more unified trend emerges. Across the board, seasons have become shorter—with one exception.
+              </div>
+        
+              <div class="mult-step" data-step="decrease-episodes">
+                Almost all six networks have seen declines in their median episode counts. From <span style="color:#1E3A8A;">HBO</span> to <span style="color:#FF0000;">ABC</span>, shorter seasons are becoming the new norm in serialized television.
+              </div>
+        
+              <div class="mult-step" data-step="increase-episodes">
+                Only <span style="color:#FF8C00;">CBS</span> has managed to maintain a consistent episode count over time. In a sea of shrinking seasons, it stands as one of the last holdouts of traditional 20+ episode formats.
+              </div>
+            </div>
+          <div class="mult-sticky-chart">
+            <div id="multSmallMultiplesChart"></div>
+          </div>
+        </div>
+      </section>              
+      
+
+    <section class="after-para">
+        <p class="para">As we’ve seen, the industry’s turn toward shorter, “bite-sized” seasons (8–10 episodes, instead
+            of 20–24)
+            isn’t a fluke—it’s a calculated move. However, just because critics and producers have begun to follow
+            this pattern doesn’t necessarily mean that consumers’ viewing habits have changed to match.
+        </p>
+        <p class="para">Let’s dig into the final piece of the TV shrinkage mystery with a dataset of consumer viewership
+            from one of the primary suspects: Netflix. The following graph plots the total weekly hours watched by all
+            global consumers over time for ten English TV shows that spent the longest in the popularity top 10 of
+            Netflix <em>while they were ranked</em>, i.e. any viewership from times when the show wasn’t in the top 10
+            is excluded.
+        </p>
+        <p class="para">
+            Use the control panel on the right to customize your view.
+        </p>
+    </section>
+
+    <section>
+        <div id="time-series-panel">
+            <div id="controls">
+                <h3>Top 10 Shows</h3>
+            </div>
+            <div class="charts">
+                <svg class="svg-chart" id="chart-weekly"></svg>
+
+                <p class="para">
+                    As you can see, every new season release (marked by colored dashed lines) triggers a sharp,
+                    short-lived
+                    peak
+                    in
+                    global viewing hours. Those peaks are getting narrower as seasons shrink; Instead of a steady
+                    trickle of
+                    episodes over months, viewers binge 8–10-episode runs in a single week.
+                </p>
+                <p class="para">
+                    Which season releases generated the tallest spike for you? Does a lean 8-episode drop feel more
+                    compelling
+                    than
+                    a sprawling 20-episode roll-out?
+                </p>
+                <p class="para">
+                    This pattern becomes more evident when viewed in terms of total cumulative hours over time from the
+                    above
+                    data.
+                </p>
+
+                <svg class="svg-chart" id="chart-cumulative"></svg>
+
+
+            </div>
+        </div>
+        <p class="para">
+            Even though shorter seasons pack a punch in one week, their long-term lift flattens out sooner
+            compared
+            to
+            longer seasons. Thus, it seems like short seasons front-load excitement but may plateau faster,
+            leaving
+            less
+            “tail” of ongoing chatter and catch-up viewing.
+        </p>
+        <p class="para">
+            This brings up the key question: we’ve seen how shorter seasons fire up huge spikes in viewing, then
+            quickly
+            flatline—but are they also more “efficient” at engaging viewers per episode?
+        </p>
+        <p class="para">
+            To answer that, let’s turn to our final visualization:
+        </p>
+        <p class="para">
+            The following scatterplot depicts Global Viewing Hours per Season (normalized by episode runtime) vs
+            Season
+            Length (in Episodes) for all shows that were in the Top 10 English TV shows on Netflix between July
+            2021
+            and
+            April 2025.
+        </p>
+        <p class="para">
+            Explore the graph by clicking on points to zoom, searching for your favorite shows, or zooming and
+            panning
+            through to examine the data.
+        </p>
+    </section>
+
+    <section id="global-scatter-section">
+        <h2 style="text-align:center;">Season Length vs. Normalized Global Hours per Episode</h2>
+
+        <!-- D3 will clear/re-draw this -->
+        <div id="chart-global-scatter"></div>
+
+    </section>
+
+    <section class="after-para">
+        <p class="para">
+            When we plot each season’s total global viewing hours per episode against its episode count, a striking
+            bell-curve emerges:
+        </p>
+        <p class="para">
+            &rarr; Sweet spot at 8–10 episodes: Seasons in this range consistently hit the highest normalized hours per
+            episode, meaning viewers squeeze the most engagement out of each installment.
+        </p>
+        <p class="para">
+            &rarr; Too short, too shallow: Mini-seasons under 6 episodes rarely build enough narrative momentum,
+            yielding only modest per-episode returns.
+        </p>
+        <p class="para">
+            &rarr; Too long, too weary: Once you push past ~15 episodes, normalized engagement drops off
+            sharply—audiences seem to lose steam when seasons stretch on.
+        </p>
+        <p class="para">
+            &rarr; Outliers underscore the trend: A handful of 9–10-episode seasons even breach the 250
+            million-hours-per-episode mark, showing just how potent a tightly focused run can be.
+        </p>
+    </section>
+
+    <hr>
+
+    <section class="conclusion">
+
+        <p class="para">
+            In sum, the data argues that mid-length seasons strike the ideal balance between story depth and
+            binge-friendly pacing, maximizing viewer investment without overstaying their welcome.
+        </p>
+        <p class="para">
+            What does this tell us about viewer behavior?
+        </p>
+        <p class="para"><span style="color: #2A9D8F; font-weight: 800;">Quality over quantity:</span> Audiences are
+            happiest when shows hit that 8–10-episode sweet
+            spot—enough time to develop story and characters, but not so long that momentum sputters.
+        </p>
+
+
+        <p class="para"><span style="color: #2A9D8F; font-weight: 800;">Narrative momentum matters:</span> Mini-seasons
+            under six episodes rarely capture deep
+            engagement, while sprawling runs beyond 15 episodes see per-episode interest taper off.
+        </p>
+
+
+        <p class="para"><span style="color: #2A9D8F; font-weight: 800;">Binge-friendly pacing:</span> Viewers reward a
+            tight, binge-worthy arc with higher
+            watch-time per episode, signaling a preference for seasons that respect their time and keep them hooked
+            from start to finish.
+        </p>
+
+    </section>
+
+    <section>
+        <p class="para">
+            Do any of these lines of reasoning strike a chord with you? The final twist in this mystery may not be
+            plotted in executive suites or coded into streaming algorithms—it lives in us, the restless audience. With
+            every weekend binge and every impatient tap on “Next Episode,” we’ve delivered an unspoken decree to
+            creators: strip away the excess, sharpen the drama, and satisfy us instantly. In that light, perhaps the
+            ultimate culprit in this tale of TV-shrinkage isn’t just cost-conscious networks or disruptor streamers, but
+            us– the <em>viewers</em>.
+        </p>
+    </section>
+
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/scrollama"></script>
+    <script type="module" src="scatterplot.js"></script>
+    <script type="module" src="small2.js"></script>
+    <script type="module" src="netflix.js"></script>
+
+    <script src="scrollyscript.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,5058 @@
+[
+    {
+        "year": 2000,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//wvCOKWM1abB5CfuWKqDYeMRV3lN.jpg",
+        "median_color": [
+            70,
+            26,
+            45
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Sex and the City",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 105,
+        "poster_path": "https://image.tmdb.org/t/p/original//1ZXJv019e5l2V0DWhD1IFGOGpKC.jpg",
+        "median_color": [
+            102,
+            164,
+            170
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "The Practice",
+        "network": "ABC",
+        "season_number": 4,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 3050,
+        "poster_path": "https://image.tmdb.org/t/p/original//iIbdEKTi5jy0XvAnvnV4zKkTfPw.jpg",
+        "median_color": [
+            26,
+            14,
+            12
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "ER",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4588,
+        "poster_path": "https://image.tmdb.org/t/p/original//rGSRM0wwbHZjq54MRXmq6MrHzrw.jpg",
+        "median_color": [
+            115,
+            72,
+            58
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 1,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//1x9skgRqTlF5W9N7mv3CmXmPaek.jpg",
+        "median_color": [
+            14,
+            97,
+            160
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//2lAqiKL42WSOwuKlDzyfqMiqBjX.jpg",
+        "median_color": [
+            232,
+            140,
+            109
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Frasier",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 3452,
+        "poster_path": "https://image.tmdb.org/t/p/original//rJCnTPgFezsrNGG0bQsyFYdL6vm.jpg",
+        "median_color": [
+            36,
+            1,
+            2
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 2,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//tVXuATcmMY155OVkbgHgdM22sgn.jpg",
+        "median_color": [
+            56,
+            121,
+            139
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Law & Order",
+        "network": "NBC",
+        "season_number": 10,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 549,
+        "poster_path": "https://image.tmdb.org/t/p/original//fnYm6dcs1bmYvl3afnGxofsVgyw.jpg",
+        "median_color": [
+            83,
+            68,
+            50
+        ]
+    },
+    {
+        "year": 2000,
+        "name": "Friends",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1668,
+        "poster_path": "https://image.tmdb.org/t/p/original//7EU6bV6d8j1Xbc1F8QoNkOZrpsi.jpg",
+        "median_color": [
+            1,
+            96,
+            76
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//zFuz2PgkHDr9Lx5YAEmiWbXKCio.jpg",
+        "median_color": [
+            236,
+            155,
+            106
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Sex and the City",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 18,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 105,
+        "poster_path": "https://image.tmdb.org/t/p/original//24JqcKtnduYEmsbTQo9upDM6cNz.jpg",
+        "median_color": [
+            104,
+            76,
+            78
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "The Practice",
+        "network": "ABC",
+        "season_number": 5,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 3050,
+        "poster_path": "https://image.tmdb.org/t/p/original//7OKZSUIWhjFP0F2s478zTrAYwDB.jpg",
+        "median_color": [
+            13,
+            11,
+            20
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "ER",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4588,
+        "poster_path": "https://image.tmdb.org/t/p/original//maJBl6VtoReKeU3sb3J5JSD6mO8.jpg",
+        "median_color": [
+            108,
+            109,
+            119
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 2,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//4jETY8ceX2GEiKldJRYJqL7DXAI.jpg",
+        "median_color": [
+            115,
+            93,
+            56
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//cXB3OQEwVKjV5ComMshqeTbs7Ae.jpg",
+        "median_color": [
+            7,
+            12,
+            6
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Frasier",
+        "network": "NBC",
+        "season_number": 8,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 3452,
+        "poster_path": "https://image.tmdb.org/t/p/original//jERNUteJJD0FBIqxeWHJNvfxwPo.jpg",
+        "median_color": [
+            66,
+            41,
+            31
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Law & Order",
+        "network": "NBC",
+        "season_number": 11,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 549,
+        "poster_path": "https://image.tmdb.org/t/p/original//u5MyTy53EWtnsMQewECGfNDywme.jpg",
+        "median_color": [
+            100,
+            73,
+            45
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Malcolm in the Middle",
+        "network": "FOX",
+        "season_number": 2,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2004,
+        "poster_path": "https://image.tmdb.org/t/p/original//AtuQTd80P5SoaqT0BTh6yyM1XYZ.jpg",
+        "median_color": [
+            248,
+            246,
+            240
+        ]
+    },
+    {
+        "year": 2001,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 5,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//mhqtta09NN7WQ27Qf7azOcG6X5D.jpg",
+        "median_color": [
+            115,
+            85,
+            175
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//w5QYqd6ucj22yolBUdrhV45NCnn.jpg",
+        "median_color": [
+            225,
+            215,
+            210
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Six Feet Under",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1274,
+        "poster_path": "https://image.tmdb.org/t/p/original//nTVpHLUk7n2p5eUkvjGVDyh4IAb.jpg",
+        "median_color": [
+            110,
+            176,
+            197
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Sex and the City",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 105,
+        "poster_path": "https://image.tmdb.org/t/p/original//ive3mic73CQqTGb5Hh9hLGNovfm.jpg",
+        "median_color": [
+            210,
+            169,
+            104
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 21,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//lhynUXDGb3zDF1dGGGMRAYjwwxc.jpg",
+        "median_color": [
+            26,
+            87,
+            82
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "CSI: Crime Scene Investigation",
+        "network": "CBS",
+        "season_number": 2,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1431,
+        "poster_path": "https://image.tmdb.org/t/p/original//b150Q5RMtJ8Y2MaH0AIbA49AWB2.jpg",
+        "median_color": [
+            11,
+            20,
+            12
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 6,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//A5CjkIPiVnSmzqZCM4V5TKpQn4a.jpg",
+        "median_color": [
+            235,
+            220,
+            147
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Friends",
+        "network": "NBC",
+        "season_number": 8,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1668,
+        "poster_path": "https://image.tmdb.org/t/p/original//eh6PPkrzkXsEksRJDcdtx9lZsqX.jpg",
+        "median_color": [
+            1,
+            147,
+            194
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Law & Order",
+        "network": "NBC",
+        "season_number": 12,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 549,
+        "poster_path": "https://image.tmdb.org/t/p/original//xAazzYBfFquWWqes5dozpQ0x4jW.jpg",
+        "median_color": [
+            74,
+            63,
+            77
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "24",
+        "network": "FOX",
+        "season_number": 1,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1973,
+        "poster_path": "https://image.tmdb.org/t/p/original//nsOf5hvGQCHlONzPJ22ROUbje6v.jpg",
+        "median_color": [
+            231,
+            236,
+            242
+        ]
+    },
+    {
+        "year": 2002,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//6HCDCecXC5CKNClXiVwVeXpi8bI.jpg",
+        "median_color": [
+            11,
+            5,
+            5
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Sex and the City",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 105,
+        "poster_path": "https://image.tmdb.org/t/p/original//ixtl8ThPcDL7vd310uoHDdkt6vc.jpg",
+        "median_color": [
+            158,
+            44,
+            28
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//bLBDcwar0FB940gzNU5XhiEc2zr.jpg",
+        "median_color": [
+            158,
+            196,
+            203
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Six Feet Under",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1274,
+        "poster_path": "https://image.tmdb.org/t/p/original//oNhAobbyG6mdYG1tYVTDeGNNRsG.jpg",
+        "median_color": [
+            22,
+            26,
+            25
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//q01fVFY7rQEMMnexa9Urv7NOdKO.jpg",
+        "median_color": [
+            65,
+            41,
+            49
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//krRNC2BHdELpWiNN8xtQYEGJVVp.jpg",
+        "median_color": [
+            40,
+            101,
+            143
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "CSI: Crime Scene Investigation",
+        "network": "CBS",
+        "season_number": 3,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1431,
+        "poster_path": "https://image.tmdb.org/t/p/original//zyoFAPWXqSN4sSmmgbe20yWCJmF.jpg",
+        "median_color": [
+            19,
+            18,
+            13
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Friends",
+        "network": "NBC",
+        "season_number": 9,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1668,
+        "poster_path": "https://image.tmdb.org/t/p/original//1IvIdN4I5jJ0bwC3BkmDCy4pQ9j.jpg",
+        "median_color": [
+            231,
+            145,
+            0
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//fapgnktaW5nW4xbG7spRCZmyKow.jpg",
+        "median_color": [
+            120,
+            80,
+            50
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 7,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//wlUMe3mqL24Oi9wLAYrlIB6RYGh.jpg",
+        "median_color": [
+            98,
+            162,
+            157
+        ]
+    },
+    {
+        "year": 2003,
+        "name": "24",
+        "network": "FOX",
+        "season_number": 2,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1973,
+        "poster_path": "https://image.tmdb.org/t/p/original//c7N34xm6cb1w2XxY9FX1C0S1rLc.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//phSfnHPqve22EYCKCVcCEO5NdAW.jpg",
+        "median_color": [
+            33,
+            85,
+            65
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 13,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//p651eYM0Vd0CWDvndbMyaS0lDeD.jpg",
+        "median_color": [
+            44,
+            48,
+            57
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Sex and the City",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 20,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 105,
+        "poster_path": "https://image.tmdb.org/t/p/original//nYyY7AICJFCOhozkacJrHcYGbme.jpg",
+        "median_color": [
+            144,
+            125,
+            113
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Arrested Development",
+        "network": "FOX",
+        "season_number": 1,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 4589,
+        "poster_path": "https://image.tmdb.org/t/p/original//tGII1c84fhml9jYclHJiB3Yy4Vc.jpg",
+        "median_color": [
+            253,
+            234,
+            220
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//lyGscIBjWIkePdnt2wFkiXrjvvu.jpg",
+        "median_color": [
+            132,
+            78,
+            76
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 8,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//s3sjUypScIq4e3P334YXpPb9IOr.jpg",
+        "median_color": [
+            186,
+            87,
+            118
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "CSI: Crime Scene Investigation",
+        "network": "CBS",
+        "season_number": 4,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1431,
+        "poster_path": "https://image.tmdb.org/t/p/original//gY7Lduknb0qwaoT4z8BdgiqaoQb.jpg",
+        "median_color": [
+            32,
+            47,
+            28
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Joan of Arcadia",
+        "network": "CBS",
+        "season_number": 1,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1593,
+        "poster_path": "https://image.tmdb.org/t/p/original//fWqUWdySYz9Hk3IgX1cavfwKRli.jpg",
+        "median_color": [
+            204,
+            135,
+            65
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//svQihRotpDROaHJM7TbWYt2SkXH.jpg",
+        "median_color": [
+            22,
+            7,
+            7
+        ]
+    },
+    {
+        "year": 2004,
+        "name": "24",
+        "network": "FOX",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1973,
+        "poster_path": "https://image.tmdb.org/t/p/original//8c6kjSJTYSlPqbDTKanHCjdY2H6.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Six Feet Under",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1274,
+        "poster_path": "https://image.tmdb.org/t/p/original//h3JYkBF1Bzcn2JrO9Vu6FNHiYgW.jpg",
+        "median_color": [
+            52,
+            64,
+            70
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Deadwood",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1406,
+        "poster_path": "https://image.tmdb.org/t/p/original//aJqGrNROxMtQNUZ2q8ZeK07zvGJ.jpg",
+        "median_color": [
+            83,
+            94,
+            93
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Everybody Loves Raymond",
+        "network": "CBS",
+        "season_number": 9,
+        "episodes": 16,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2140,
+        "poster_path": "https://image.tmdb.org/t/p/original//8ZHuts9gxsMbpwsHaSj54V6jHdh.jpg",
+        "median_color": [
+            138,
+            91,
+            158
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Arrested Development",
+        "network": "FOX",
+        "season_number": 2,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4589,
+        "poster_path": "https://image.tmdb.org/t/p/original//qGJU1F5ObZ8z3Cau8CJb1EBPZOw.jpg",
+        "median_color": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//8oj3PRAJMvXyxYjGtczWchK3GRf.jpg",
+        "median_color": [
+            138,
+            134,
+            135
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Desperate Housewives",
+        "network": "ABC",
+        "season_number": 1,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 693,
+        "poster_path": "https://image.tmdb.org/t/p/original//loERayOsYU1xdTH2JLOuug1vHIK.jpg",
+        "median_color": [
+            254,
+            254,
+            254
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Will & Grace",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4454,
+        "poster_path": "https://image.tmdb.org/t/p/original//dkgCk8jqa11jk0juctAR9kTLzIJ.jpg",
+        "median_color": [
+            16,
+            5,
+            7
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "24",
+        "network": "FOX",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1973,
+        "poster_path": "https://image.tmdb.org/t/p/original//uwX0RfQ3Fs4GQiFlsmTMqipuUdS.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Scrubs",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4556,
+        "poster_path": "https://image.tmdb.org/t/p/original//9llXLcrCCzHnpT1bz8Afg3rtWJ0.jpg",
+        "median_color": [
+            229,
+            159,
+            82
+        ]
+    },
+    {
+        "year": 2005,
+        "name": "Lost",
+        "network": "ABC",
+        "season_number": 1,
+        "episodes": 25,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 4607,
+        "poster_path": "https://image.tmdb.org/t/p/original//ejLEJwmh3ptBpdYlKw0xgjjYXmP.jpg",
+        "median_color": [
+            66,
+            122,
+            123
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//rVrZ2pad3U0sEFTAnZqjzup9R5G.jpg",
+        "median_color": [
+            194,
+            169,
+            154
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//b1P9PAUI18mb62N0DtHOd71L3CT.jpg",
+        "median_color": [
+            26,
+            30,
+            33
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "Arrested Development",
+        "network": "FOX",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4589,
+        "poster_path": "https://image.tmdb.org/t/p/original//ke12nPcvixUGlC4IF86JcjNsbLG.jpg",
+        "median_color": [
+            130,
+            104,
+            76
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 2,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//sAd3RhOjhTuaIBpyiI1QmB0YUq8.jpg",
+        "median_color": [
+            207,
+            198,
+            214
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "The West Wing",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 688,
+        "poster_path": "https://image.tmdb.org/t/p/original//7fraZMgrUqdTnTlmzErd9w49Hnv.jpg",
+        "median_color": [
+            12,
+            9,
+            7
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "Two and a Half Men",
+        "network": "CBS",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2691,
+        "poster_path": "https://image.tmdb.org/t/p/original//I5Hhdvc5UIEyhgpRoNPqj99H49.jpg",
+        "median_color": [
+            7,
+            57,
+            23
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "Scrubs",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4556,
+        "poster_path": "https://image.tmdb.org/t/p/original//wPyLZKlzskQTgJCeoIeOdGn3TnG.jpg",
+        "median_color": [
+            214,
+            154,
+            138
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "House",
+        "network": "FOX",
+        "season_number": 2,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1408,
+        "poster_path": "https://image.tmdb.org/t/p/original//j2LxTsMhXYqfi4k9Vome8kQc26U.jpg",
+        "median_color": [
+            183,
+            116,
+            25
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "24",
+        "network": "FOX",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1973,
+        "poster_path": "https://image.tmdb.org/t/p/original//xZXf9wGhQqTnHm2aoJGG105JDQd.jpg",
+        "median_color": [
+            42,
+            3,
+            2
+        ]
+    },
+    {
+        "year": 2006,
+        "name": "Grey's Anatomy",
+        "network": "ABC",
+        "season_number": 2,
+        "episodes": 27,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1416,
+        "poster_path": "https://image.tmdb.org/t/p/original//bO0S3fU8Tcqn0g5DCmDcX1oqA2t.jpg",
+        "median_color": [
+            145,
+            173,
+            188
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Entourage",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 20,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1940,
+        "poster_path": "https://image.tmdb.org/t/p/original//4N10iu4gNiaYkYGMvIGzXQ2Q8YD.jpg",
+        "median_color": [
+            11,
+            11,
+            11
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 1,
+        "episodes": 21,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//mhGcJZaejm3nPVOjgO0g8PCN3J1.jpg",
+        "median_color": [
+            108,
+            74,
+            49
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "The Sopranos",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 21,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1398,
+        "poster_path": "https://image.tmdb.org/t/p/original//b1P9PAUI18mb62N0DtHOd71L3CT.jpg",
+        "median_color": [
+            26,
+            30,
+            33
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//1SR5ZR0KNHTRvAzFayaKbhKAFSu.jpg",
+        "median_color": [
+            63,
+            66,
+            119
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Ugly Betty",
+        "network": "ABC",
+        "season_number": 1,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4626,
+        "poster_path": "https://image.tmdb.org/t/p/original//b3ubHVughl4wiPqAl6ZvMTGXCo3.jpg",
+        "median_color": [
+            163,
+            132,
+            98
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Heroes",
+        "network": "NBC",
+        "season_number": 1,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1639,
+        "poster_path": "https://image.tmdb.org/t/p/original//x0RT82mMurrT6DTbt2X3oEkj5N7.jpg",
+        "median_color": [
+            0,
+            2,
+            5
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Two and a Half Men",
+        "network": "CBS",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2691,
+        "poster_path": "https://image.tmdb.org/t/p/original//kcYIXEat3fR5FoVt4dbzQSnUDa6.jpg",
+        "median_color": [
+            54,
+            51,
+            74
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "House",
+        "network": "FOX",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1408,
+        "poster_path": "https://image.tmdb.org/t/p/original//muuLevUfVbpq87lWljfZ8HLga6b.jpg",
+        "median_color": [
+            200,
+            25,
+            13
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Boston Legal",
+        "network": "ABC",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4598,
+        "poster_path": "https://image.tmdb.org/t/p/original//4UEC3Df46oNFb6vXPVwvFBC9CtV.jpg",
+        "median_color": [
+            112,
+            91,
+            61
+        ]
+    },
+    {
+        "year": 2007,
+        "name": "Grey's Anatomy",
+        "network": "ABC",
+        "season_number": 3,
+        "episodes": 25,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1416,
+        "poster_path": "https://image.tmdb.org/t/p/original//aY7NuvFj5Uzliy0nrFxVWmlZFiK.jpg",
+        "median_color": [
+            131,
+            147,
+            145
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//mKcg3P2bLnxE2suusIbMVa4V2DM.jpg",
+        "median_color": [
+            159,
+            57,
+            37
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Entourage",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1940,
+        "poster_path": "https://image.tmdb.org/t/p/original//eQriSqxWrVHqPY4U6YnkUHDn5Rt.jpg",
+        "median_color": [
+            169,
+            1,
+            19
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Dexter",
+        "network": "Showtime",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1405,
+        "poster_path": "https://image.tmdb.org/t/p/original//t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg",
+        "median_color": [
+            177,
+            150,
+            116
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Damages",
+        "network": "FX",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4920,
+        "poster_path": "https://image.tmdb.org/t/p/original//zZyG3yaHHJmy8fAS11ayerOmcaI.jpg",
+        "median_color": [
+            5,
+            7,
+            13
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//3yCFuEHPmCGo09Va6wwhMpqyxoG.jpg",
+        "median_color": [
+            70,
+            48,
+            38
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//zunFI6wdYJQRHnfXnziArUTs2e2.jpg",
+        "median_color": [
+            44,
+            81,
+            82
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 2,
+        "episodes": 15,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//uCgzHLleOdXD2nYZHKyJJdfVbWq.jpg",
+        "median_color": [
+            230,
+            210,
+            210
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "House",
+        "network": "FOX",
+        "season_number": 4,
+        "episodes": 16,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1408,
+        "poster_path": "https://image.tmdb.org/t/p/original//CryJFbwif5U1VViZ5EkmeomD3q.jpg",
+        "median_color": [
+            19,
+            115,
+            43
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Two and a Half Men",
+        "network": "CBS",
+        "season_number": 5,
+        "episodes": 19,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2691,
+        "poster_path": "https://image.tmdb.org/t/p/original//g52E3BZ6jKydQVxoGM15ePOEFXg.jpg",
+        "median_color": [
+            199,
+            95,
+            52
+        ]
+    },
+    {
+        "year": 2008,
+        "name": "Boston Legal",
+        "network": "ABC",
+        "season_number": 4,
+        "episodes": 20,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4598,
+        "poster_path": "https://image.tmdb.org/t/p/original//2xDHrHOIn1Eh62IQnisim5ErVwW.jpg",
+        "median_color": [
+            33,
+            57,
+            72
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Flight of the Conchords",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2742,
+        "poster_path": "https://image.tmdb.org/t/p/original//3e9H2cyLE4NlyVDzSEIOtQJXfbT.jpg",
+        "median_color": [
+            138,
+            173,
+            173
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Big Love",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4392,
+        "poster_path": "https://image.tmdb.org/t/p/original//5ZssWsorTuUdhrOu39RwnbWdDn3.jpg",
+        "median_color": [
+            39,
+            23,
+            35
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Entourage",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1940,
+        "poster_path": "https://image.tmdb.org/t/p/original//rBBvKt6z1wEVxjd7wXiiHYUhdfu.jpg",
+        "median_color": [
+            151,
+            153,
+            148
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Dexter",
+        "network": "Showtime",
+        "season_number": 3,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1405,
+        "poster_path": "https://image.tmdb.org/t/p/original//8zyoh0AtArOyTq0F2USckRGzZEU.jpg",
+        "median_color": [
+            167,
+            103,
+            83
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Breaking Bad",
+        "network": "AMC",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1396,
+        "poster_path": "https://image.tmdb.org/t/p/original//e3oGYpoTUhOFK0BJfloru5ZmGV.jpg",
+        "median_color": [
+            68,
+            105,
+            109
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Damages",
+        "network": "FX",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4920,
+        "poster_path": "https://image.tmdb.org/t/p/original//qWEVPfaNGfB7jZwXXB9R4jZIB4H.jpg",
+        "median_color": [
+            32,
+            22,
+            16
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//eiFpr3ZyuIEZGP7wjERcgrfnFjA.jpg",
+        "median_color": [
+            60,
+            50,
+            47
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "Family Guy",
+        "network": "FOX",
+        "season_number": 7,
+        "episodes": 16,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1434,
+        "poster_path": "https://image.tmdb.org/t/p/original//5GUHJgPxDwh0njN3ytEIBENhmOJ.jpg",
+        "median_color": [
+            210,
+            110,
+            94
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 22,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//eYYQWACx7ttUzRwTNYuo6zveqpE.jpg",
+        "median_color": [
+            79,
+            128,
+            69
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "How I Met Your Mother",
+        "network": "CBS",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1100,
+        "poster_path": "https://image.tmdb.org/t/p/original//8Ly76CWFpQ6voKvUZmOKsBwF6qH.jpg",
+        "median_color": [
+            247,
+            239,
+            236
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "House",
+        "network": "FOX",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1408,
+        "poster_path": "https://image.tmdb.org/t/p/original//bwE3QGVeC7E5VycnIPVzPtzpBId.jpg",
+        "median_color": [
+            78,
+            88,
+            114
+        ]
+    },
+    {
+        "year": 2009,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 28,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//hwlQxOPGIybqBz5TYYIe6XtOfi4.jpg",
+        "median_color": [
+            213,
+            182,
+            190
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 7,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//wNH2skHzKwt6PQRF2YBAOiQBiwV.jpg",
+        "median_color": [
+            65,
+            66,
+            71
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Nurse Jackie",
+        "network": "Showtime",
+        "season_number": 1,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 18053,
+        "poster_path": "https://image.tmdb.org/t/p/original//qLbzebfVoKdgZlgqKPwsgy6MsYY.jpg",
+        "median_color": [
+            196,
+            191,
+            149
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Dexter",
+        "network": "Showtime",
+        "season_number": 4,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1405,
+        "poster_path": "https://image.tmdb.org/t/p/original//1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg",
+        "median_color": [
+            68,
+            116,
+            133
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "True Blood",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 10545,
+        "poster_path": "https://image.tmdb.org/t/p/original//wSNUPNIihjPqmKngeyDOIJQyolL.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Breaking Bad",
+        "network": "AMC",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1396,
+        "poster_path": "https://image.tmdb.org/t/p/original//ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+        "median_color": [
+            106,
+            97,
+            61
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//vLZMY8UUxx8w2tizezT3AFBzmIJ.jpg",
+        "median_color": [
+            75,
+            59,
+            39
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Lost",
+        "network": "ABC",
+        "season_number": 6,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4607,
+        "poster_path": "https://image.tmdb.org/t/p/original//29tcXCeFa3CWmavGw4D7UlERjF2.jpg",
+        "median_color": [
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Glee",
+        "network": "FOX",
+        "season_number": 1,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1417,
+        "poster_path": "https://image.tmdb.org/t/p/original//w1s0DzAbLHZtU6sG5vswfjwHJ4D.jpg",
+        "median_color": [
+            235,
+            190,
+            73
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//AjAUGtM8XELNN2WD4z9XB5of2fi.jpg",
+        "median_color": [
+            210,
+            146,
+            112
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "The Good Wife",
+        "network": "CBS",
+        "season_number": 1,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1435,
+        "poster_path": "https://image.tmdb.org/t/p/original//vKVDbA8POSJxSI6NdT0reW787pz.jpg",
+        "median_color": [
+            79,
+            34,
+            36
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 1,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//i1KhQoI391KaEA5fKArrzoTvNDk.jpg",
+        "median_color": [
+            237,
+            227,
+            217
+        ]
+    },
+    {
+        "year": 2010,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 26,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//hk3a9U26J726oV8nHTdeMTtH91B.jpg",
+        "median_color": [
+            126,
+            132,
+            133
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg",
+        "median_color": [
+            28,
+            28,
+            29
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Dexter",
+        "network": "Showtime",
+        "season_number": 5,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1405,
+        "poster_path": "https://image.tmdb.org/t/p/original//sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg",
+        "median_color": [
+            163,
+            85,
+            63
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Boardwalk Empire",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1621,
+        "poster_path": "https://image.tmdb.org/t/p/original//i7pWWzunPNGDhzHlqHoot7qXYRe.jpg",
+        "median_color": [
+            66,
+            47,
+            37
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Friday Night Lights",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 4278,
+        "poster_path": "https://image.tmdb.org/t/p/original//upPNJTuy36HcpxDAirxlHQyD61.jpg",
+        "median_color": [
+            178,
+            147,
+            109
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//2gy1LQrHlSZT8b1ifX5ypXArL0.jpg",
+        "median_color": [
+            205,
+            190,
+            173
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Parks and Recreation",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 16,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 8592,
+        "poster_path": "https://image.tmdb.org/t/p/original//feMijc8Ga8kvzftz2MXyoW7GByb.jpg",
+        "median_color": [
+            134,
+            115,
+            65
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Glee",
+        "network": "FOX",
+        "season_number": 2,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1417,
+        "poster_path": "https://image.tmdb.org/t/p/original//nnBc4ggzesl08341ZbuIsqxnOox.jpg",
+        "median_color": [
+            235,
+            121,
+            53
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//5aVBzb3rad9nUfhvlgO4E7GkhGx.jpg",
+        "median_color": [
+            140,
+            128,
+            81
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "The Good Wife",
+        "network": "CBS",
+        "season_number": 2,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1435,
+        "poster_path": "https://image.tmdb.org/t/p/original//hVS2RV1eULMKAcV47bpxIk0wdl.jpg",
+        "median_color": [
+            103,
+            86,
+            84
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "The Big Bang Theory",
+        "network": "CBS",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1418,
+        "poster_path": "https://image.tmdb.org/t/p/original//hM2TYCmOVXop1xhLA1Mbqyg60ze.jpg",
+        "median_color": [
+            82,
+            86,
+            118
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 2,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//yvBc8av9K1g5QRtBDnP5xY69jb4.jpg",
+        "median_color": [
+            239,
+            239,
+            239
+        ]
+    },
+    {
+        "year": 2011,
+        "name": "The Office",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 26,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2316,
+        "poster_path": "https://image.tmdb.org/t/p/original//uR3y9BwPA8gnk2nmB6ncQejEe8k.jpg",
+        "median_color": [
+            132,
+            140,
+            163
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//1r2OP1xHTbTi8Q0y83BhModQwSH.jpg",
+        "median_color": [
+            193,
+            128,
+            118
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Downton Abbey",
+        "network": "PBS",
+        "season_number": 2,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 33907,
+        "poster_path": "https://image.tmdb.org/t/p/original//ilCoT7k9I5YjQntUqDHQqowNg30.jpg",
+        "median_color": [
+            94,
+            76,
+            65
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 8,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//lY8OrMJH5W9OVN4o61UAm2SpLXO.jpg",
+        "median_color": [
+            105,
+            149,
+            161
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Girls",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 42282,
+        "poster_path": "https://image.tmdb.org/t/p/original//f9E5kiEzjz6pmNYOoxUnPzionfb.jpg",
+        "median_color": [
+            28,
+            29,
+            53
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//9xfNkPwDOqyeUvfNhs1XlWA0esP.jpg",
+        "median_color": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Boardwalk Empire",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1621,
+        "poster_path": "https://image.tmdb.org/t/p/original//d4B8glaJVUvi0sEs9ItsmNSP45L.jpg",
+        "median_color": [
+            51,
+            33,
+            28
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Homeland",
+        "network": "Showtime",
+        "season_number": 1,
+        "episodes": 12,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1407,
+        "poster_path": "https://image.tmdb.org/t/p/original//ySYtq74W3kxsiPTGrGm1ADDpz8m.jpg",
+        "median_color": [
+            70,
+            69,
+            60
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 5,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//6geGVQMYsczv6n0F6Fjnig04OPp.jpg",
+        "median_color": [
+            45,
+            42,
+            43
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Breaking Bad",
+        "network": "AMC",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1396,
+        "poster_path": "https://image.tmdb.org/t/p/original//5ewrnKp4TboU4hTLT5cWO350mHj.jpg",
+        "median_color": [
+            184,
+            131,
+            33
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 6,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//p0aXNISftoW4wP1GJc6SCdQhK2Q.jpg",
+        "median_color": [
+            21,
+            15,
+            14
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "The Big Bang Theory",
+        "network": "CBS",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1418,
+        "poster_path": "https://image.tmdb.org/t/p/original//l08Z8ihAsTRPEuOehbwk4axg3cu.jpg",
+        "median_color": [
+            102,
+            73,
+            110
+        ]
+    },
+    {
+        "year": 2012,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//a4EJOG8VOV02veUIYtu4lX6FVdr.jpg",
+        "median_color": [
+            241,
+            241,
+            241
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Downton Abbey",
+        "network": "PBS",
+        "season_number": 3,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 33907,
+        "poster_path": "https://image.tmdb.org/t/p/original//mNywtZcFOIN4Wv02KGA51GmLxog.jpg",
+        "median_color": [
+            23,
+            26,
+            25
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//bIIayUyaTmuGCC4wLFxKBqOEY48.jpg",
+        "median_color": [
+            186,
+            94,
+            42
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Girls",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 42282,
+        "poster_path": "https://image.tmdb.org/t/p/original//24D1YZXTEH2qzEnSy2OJqAZ4Rzn.jpg",
+        "median_color": [
+            154,
+            87,
+            93
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//5MkZjRnCKiIGn3bkXrXfndEzqOU.jpg",
+        "median_color": [
+            226,
+            221,
+            218
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Homeland",
+        "network": "Showtime",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1407,
+        "poster_path": "https://image.tmdb.org/t/p/original//4pUBj6vFlyL1jQbqpealfbcgl8k.jpg",
+        "median_color": [
+            32,
+            47,
+            51
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "30 Rock",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4608,
+        "poster_path": "https://image.tmdb.org/t/p/original//t9YOEqfj2xvVNGum3Yonq6Ik1hf.jpg",
+        "median_color": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Louie",
+        "network": "FX",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 32962,
+        "poster_path": "https://image.tmdb.org/t/p/original//zC2pCeHitORBrbywSywFtkCUzJY.jpg",
+        "median_color": [
+            141,
+            138,
+            138
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 6,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//Aq8IR2rdiDL1gNm9FNz0IPu8HDi.jpg",
+        "median_color": [
+            147,
+            163,
+            192
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "House of Cards",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1425,
+        "poster_path": "https://image.tmdb.org/t/p/original//oUfT2AbMVCYbVA3GIBbPqA6ZpUC.jpg",
+        "median_color": [
+            35,
+            37,
+            41
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Breaking Bad",
+        "network": "AMC",
+        "season_number": 5,
+        "episodes": 16,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1396,
+        "poster_path": "https://image.tmdb.org/t/p/original//r3z70vunihrAkjILQKWHX0G2xzO.jpg",
+        "median_color": [
+            14,
+            31,
+            5
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "The Big Bang Theory",
+        "network": "CBS",
+        "season_number": 6,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1418,
+        "poster_path": "https://image.tmdb.org/t/p/original//2Rsb94mlt4OHhiO2UWatDOhnBqv.jpg",
+        "median_color": [
+            41,
+            46,
+            44
+        ]
+    },
+    {
+        "year": 2013,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 4,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//pGXlhxw31fPJ6PwvzZdIRgaSHc2.jpg",
+        "median_color": [
+            212,
+            172,
+            171
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Silicon Valley",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 60573,
+        "poster_path": "https://image.tmdb.org/t/p/original//hRAfu6K3s4CLyQwRIWCnIbMjASn.jpg",
+        "median_color": [
+            73,
+            37,
+            39
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "True Detective",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 46648,
+        "poster_path": "https://image.tmdb.org/t/p/original//gf5PFAwzcrRjd26zqcumqeMZV0W.jpg",
+        "median_color": [
+            213,
+            212,
+            188
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Downton Abbey",
+        "network": "PBS",
+        "season_number": 4,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 33907,
+        "poster_path": "https://image.tmdb.org/t/p/original//xWgcXulnKGiyCUV7m2Fa4Scv15f.jpg",
+        "median_color": [
+            54,
+            42,
+            40
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//oqQ4fpcw5A9AZeFdi4MdSfxFTSW.jpg",
+        "median_color": [
+            110,
+            117,
+            109
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//jXIMScXE4J4EVHUba1JgxZnWbo4.jpg",
+        "median_color": [
+            23,
+            23,
+            23
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Orange Is the New Black",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1424,
+        "poster_path": "https://image.tmdb.org/t/p/original//kJzjhNiMiDk7sqgrmbEAk56oR9D.jpg",
+        "median_color": [
+            145,
+            117,
+            110
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "House of Cards",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1425,
+        "poster_path": "https://image.tmdb.org/t/p/original//e5WNFWA1ZLnHxpr9xQdZMhEpvNo.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Louie",
+        "network": "FX",
+        "season_number": 4,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 32962,
+        "poster_path": "https://image.tmdb.org/t/p/original//9obcZKHRGKJCVW14ExsjEiFrWjR.jpg",
+        "median_color": [
+            175,
+            176,
+            177
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 7,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//uGYQJz3HcoU4Qcv0skxMGBNKZSh.jpg",
+        "median_color": [
+            241,
+            225,
+            202
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Breaking Bad",
+        "network": "AMC",
+        "season_number": 5,
+        "episodes": 16,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1396,
+        "poster_path": "https://image.tmdb.org/t/p/original//r3z70vunihrAkjILQKWHX0G2xzO.jpg",
+        "median_color": [
+            14,
+            31,
+            5
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "The Big Bang Theory",
+        "network": "CBS",
+        "season_number": 7,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1418,
+        "poster_path": "https://image.tmdb.org/t/p/original//e0qyw3fMp7HDIA3dtCkaQD18Ra9.jpg",
+        "median_color": [
+            38,
+            67,
+            92
+        ]
+    },
+    {
+        "year": 2014,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 5,
+        "episodes": 24,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//sJ9PqGDvGIOwJfSle62yGGieZC1.jpg",
+        "median_color": [
+            24,
+            24,
+            26
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Louie",
+        "network": "FX",
+        "season_number": 5,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 32962,
+        "poster_path": "https://image.tmdb.org/t/p/original//aMVjJ4wrZ5TdEWF6NOjBRrKpAL7.jpg",
+        "median_color": [
+            72,
+            72,
+            72
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Downton Abbey",
+        "network": "PBS",
+        "season_number": 5,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 33907,
+        "poster_path": "https://image.tmdb.org/t/p/original//vfhiGuKW35QVl6zEfy8mxMZokHO.jpg",
+        "median_color": [
+            90,
+            66,
+            54
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Silicon Valley",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 60573,
+        "poster_path": "https://image.tmdb.org/t/p/original//pwzk0unhQFBzj2szQMiERRuCJFB.jpg",
+        "median_color": [
+            49,
+            44,
+            45
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Transparent",
+        "network": "Amazon",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61406,
+        "poster_path": "https://image.tmdb.org/t/p/original//z6EHOuzM07o6oaY02MOmLspJi4Z.jpg",
+        "median_color": [
+            247,
+            211,
+            140
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//j5LiaEy2mKRuk3KlxhbyoqQETIj.jpg",
+        "median_color": [
+            147,
+            167,
+            204
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
+        "median_color": [
+            92,
+            82,
+            60
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//7Q1Hy1AHxAzA2lsmzEMBvuWTX0x.jpg",
+        "median_color": [
+            191,
+            189,
+            177
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Homeland",
+        "network": "Showtime",
+        "season_number": 4,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1407,
+        "poster_path": "https://image.tmdb.org/t/p/original//2FyqjjlDm4coaDnFw870XhHVd8c.jpg",
+        "median_color": [
+            27,
+            23,
+            23
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Parks and Recreation",
+        "network": "NBC",
+        "season_number": 7,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 8592,
+        "poster_path": "https://image.tmdb.org/t/p/original//gBuLAK8O0uBAm6bHW4GJqs5jrMT.jpg",
+        "median_color": [
+            73,
+            124,
+            43
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Unbreakable Kimmy Schmidt",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61671,
+        "poster_path": "https://image.tmdb.org/t/p/original//hfeULX3p5rmxVvGV3zCZtATUESu.jpg",
+        "median_color": [
+            31,
+            42,
+            52
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Orange Is the New Black",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1424,
+        "poster_path": "https://image.tmdb.org/t/p/original//xekxbBb8sk6gyi0Xq3nNwqJFHX1.jpg",
+        "median_color": [
+            173,
+            143,
+            120
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "House of Cards",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1425,
+        "poster_path": "https://image.tmdb.org/t/p/original//za2XGEr1BWAuZkI0veLEwVxy30S.jpg",
+        "median_color": [
+            95,
+            102,
+            96
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "The Americans",
+        "network": "FX",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 46533,
+        "poster_path": "https://image.tmdb.org/t/p/original//hTpLmX5FSa5sWKfEfBAgac9dzW2.jpg",
+        "median_color": [
+            51,
+            36,
+            34
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Mad Men",
+        "network": "AMC",
+        "season_number": 7,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1104,
+        "poster_path": "https://image.tmdb.org/t/p/original//uGYQJz3HcoU4Qcv0skxMGBNKZSh.jpg",
+        "median_color": [
+            241,
+            225,
+            202
+        ]
+    },
+    {
+        "year": 2015,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 6,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//5cUUBx6iUrWFvJ8BmP2d4SATy1G.jpg",
+        "median_color": [
+            17,
+            17,
+            17
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Downton Abbey",
+        "network": "PBS",
+        "season_number": 6,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 33907,
+        "poster_path": "https://image.tmdb.org/t/p/original//af3bZuN5wCRn5JEi1jIZ3cPZ1Sp.jpg",
+        "median_color": [
+            68,
+            42,
+            31
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Silicon Valley",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 60573,
+        "poster_path": "https://image.tmdb.org/t/p/original//m9B0FRaPf2AxsxWV3fYwZpIF5Be.jpg",
+        "median_color": [
+            240,
+            240,
+            239
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Transparent",
+        "network": "Amazon",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61406,
+        "poster_path": "https://image.tmdb.org/t/p/original//o468sGT5rsXRn4fJLKRSuV59FhF.jpg",
+        "median_color": [
+            162,
+            111,
+            72
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Master of None",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 64254,
+        "poster_path": "https://image.tmdb.org/t/p/original//fazzeLYS2VsY40B2i3bts9BjQYV.jpg",
+        "median_color": [
+            231,
+            146,
+            124
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//xJ8PbwMQUJpsXT2hKfay1eJbMC6.jpg",
+        "median_color": [
+            143,
+            161,
+            158
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
+        "median_color": [
+            154,
+            150,
+            127
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Mr. Robot",
+        "network": "USA Network",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 62560,
+        "poster_path": "https://image.tmdb.org/t/p/original//1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//p1udLh0gfqyZFmXBGa393gk8go5.jpg",
+        "median_color": [
+            16,
+            35,
+            46
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Homeland",
+        "network": "Showtime",
+        "season_number": 5,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1407,
+        "poster_path": "https://image.tmdb.org/t/p/original//ehlMC7lYpsxGh6WK53CtLeM7ZRn.jpg",
+        "median_color": [
+            98,
+            87,
+            46
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Unbreakable Kimmy Schmidt",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61671,
+        "poster_path": "https://image.tmdb.org/t/p/original//v8AkXTzJTlrGUMdxkcl42prause.jpg",
+        "median_color": [
+            132,
+            115,
+            117
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "House of Cards",
+        "network": "Netflix",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1425,
+        "poster_path": "https://image.tmdb.org/t/p/original//1GeYr0qAYpxIGiIabzu1WqzKgtQ.jpg",
+        "median_color": [
+            19,
+            24,
+            29
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "The Americans",
+        "network": "FX",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 46533,
+        "poster_path": "https://image.tmdb.org/t/p/original//4yXBjHDcWrY0gowIsHcjNVsTaQ0.jpg",
+        "median_color": [
+            24,
+            72,
+            89
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 7,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//825aF6sf43gIyPsX0oeNNhqMzuH.jpg",
+        "median_color": [
+            37,
+            37,
+            36
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "The Good Wife",
+        "network": "CBS",
+        "season_number": 7,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1435,
+        "poster_path": "https://image.tmdb.org/t/p/original//jycDoC9PmtyVcMoxgWkirIFBT1g.jpg",
+        "median_color": [
+            172,
+            98,
+            70
+        ]
+    },
+    {
+        "year": 2016,
+        "name": "Black-ish",
+        "network": "ABC",
+        "season_number": 2,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61381,
+        "poster_path": "https://image.tmdb.org/t/p/original//rZBZPyxdeG2CyJJXBliIOyv4ywH.jpg",
+        "median_color": [
+            12,
+            13,
+            11
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Stranger Things",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 66732,
+        "poster_path": "https://image.tmdb.org/t/p/original//hb4KmdA4F1XMnf0vVjevPKKBEjV.jpg",
+        "median_color": [
+            35,
+            32,
+            44
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Silicon Valley",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 60573,
+        "poster_path": "https://image.tmdb.org/t/p/original//lsYfCqNCWWTc7zsqO5MYcptJI0n.jpg",
+        "median_color": [
+            193,
+            181,
+            166
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Master of None",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 64254,
+        "poster_path": "https://image.tmdb.org/t/p/original//htw10TBQWvVYxxAlCVRcRBrA5p7.jpg",
+        "median_color": [
+            207,
+            206,
+            202
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Atlanta",
+        "network": "FX",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 65495,
+        "poster_path": "https://image.tmdb.org/t/p/original//hPfdZeAk5oPveXMaJxKpjDCarP7.jpg",
+        "median_color": [
+            62,
+            43,
+            19
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 6,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//vvOyVnobsGLqOPUuSESDe35OJhw.jpg",
+        "median_color": [
+            148,
+            144,
+            139
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
+        "median_color": [
+            31,
+            30,
+            41
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Westworld",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 63247,
+        "poster_path": "https://image.tmdb.org/t/p/original//4vtkTalvSXa0Xh9nieruU73LYKl.jpg",
+        "median_color": [
+            19,
+            47,
+            55
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "The Handmaid's Tale",
+        "network": "Hulu",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 69478,
+        "poster_path": "https://image.tmdb.org/t/p/original//iBfjoIODKG1FazQNN1Op8vmVsg0.jpg",
+        "median_color": [
+            55,
+            18,
+            17
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Unbreakable Kimmy Schmidt",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61671,
+        "poster_path": "https://image.tmdb.org/t/p/original//fdMRKOoXbnOfsJSjGTUHNZMwg1K.jpg",
+        "median_color": [
+            190,
+            106,
+            118
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "House of Cards",
+        "network": "Netflix",
+        "season_number": 5,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 1425,
+        "poster_path": "https://image.tmdb.org/t/p/original//xaYAGAQwpsYhLdX9JKTaGI2zgCE.jpg",
+        "median_color": [
+            163,
+            19,
+            17
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "The Americans",
+        "network": "FX",
+        "season_number": 5,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 46533,
+        "poster_path": "https://image.tmdb.org/t/p/original//diCsqp6jdyohiY2qnafZyJyRK1h.jpg",
+        "median_color": [
+            195,
+            128,
+            96
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "This Is Us",
+        "network": "NBC",
+        "season_number": 1,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 67136,
+        "poster_path": "https://image.tmdb.org/t/p/original//rDjZVtIT2RzcdkA4X7YnAdUsLu5.jpg",
+        "median_color": [
+            51,
+            39,
+            25
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Modern Family",
+        "network": "ABC",
+        "season_number": 8,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 1421,
+        "poster_path": "https://image.tmdb.org/t/p/original//coOmsK9sWpScfLDlRXQ2xUJdzZ8.jpg",
+        "median_color": [
+            246,
+            252,
+            252
+        ]
+    },
+    {
+        "year": 2017,
+        "name": "Black-ish",
+        "network": "ABC",
+        "season_number": 3,
+        "episodes": 24,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61381,
+        "poster_path": "https://image.tmdb.org/t/p/original//1IGFHxR7hO8D72aTO37xqyQLhMw.jpg",
+        "median_color": [
+            16,
+            15,
+            16
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 7,
+        "episodes": 7,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//oX51n32QyHeFP5kErksemJsJljL.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Barry",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 73107,
+        "poster_path": "https://image.tmdb.org/t/p/original//4x3qLPbpI7TYWLvMnWHmw0NtAdO.jpg",
+        "median_color": [
+            30,
+            19,
+            15
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "The Marvelous Mrs. Maisel",
+        "network": "Amazon",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 70796,
+        "poster_path": "https://image.tmdb.org/t/p/original//cr8Z24lsnlVLXtIibcUXSdtICeI.jpg",
+        "median_color": [
+            87,
+            56,
+            94
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Stranger Things",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 66732,
+        "poster_path": "https://image.tmdb.org/t/p/original//74nFJmiapxKuUBXRbSu6VqGGcuo.jpg",
+        "median_color": [
+            117,
+            39,
+            51
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 9,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//6Q9LWDFanSxtrr8uBh1aX660Jhf.jpg",
+        "median_color": [
+            172,
+            153,
+            127
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Silicon Valley",
+        "network": "HBO",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 60573,
+        "poster_path": "https://image.tmdb.org/t/p/original//2vlduWj0PFwwQT4AAZMJYvzOof6.jpg",
+        "median_color": [
+            247,
+            246,
+            242
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "GLOW",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 70573,
+        "poster_path": "https://image.tmdb.org/t/p/original//q26WuTO1dXk2TgLZsu5lQ0CIc3y.jpg",
+        "median_color": [
+            99,
+            57,
+            79
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "The Americans",
+        "network": "FX",
+        "season_number": 6,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 46533,
+        "poster_path": "https://image.tmdb.org/t/p/original//iL8c7po4l0KqqbuwNJawYcuurwK.jpg",
+        "median_color": [
+            37,
+            2,
+            2
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Westworld",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 63247,
+        "poster_path": "https://image.tmdb.org/t/p/original//1SupbbgG4nDHnmGk37d46u2oT5Z.jpg",
+        "median_color": [
+            89,
+            86,
+            103
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "The Crown",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 65494,
+        "poster_path": "https://image.tmdb.org/t/p/original//rfk6TVvnUo4JKOoBwijrsTuHuIu.jpg",
+        "median_color": [
+            28,
+            38,
+            42
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Atlanta",
+        "network": "FX",
+        "season_number": 2,
+        "episodes": 11,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 65495,
+        "poster_path": "https://image.tmdb.org/t/p/original//xVmzrYFAtKzqfbweGM8KSgOiEvT.jpg",
+        "median_color": [
+            3,
+            16,
+            43
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Unbreakable Kimmy Schmidt",
+        "network": "Netflix",
+        "season_number": 4,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61671,
+        "poster_path": "https://image.tmdb.org/t/p/original//723OX0RkTCAVPVikPapTYw0qeeY.jpg",
+        "median_color": [
+            132,
+            96,
+            65
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "The Handmaid's Tale",
+        "network": "Hulu",
+        "season_number": 2,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69478,
+        "poster_path": "https://image.tmdb.org/t/p/original//nWjwPOPFIz8kqPQuZR37qkyU7nM.jpg",
+        "median_color": [
+            119,
+            40,
+            28
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "This Is Us",
+        "network": "NBC",
+        "season_number": 2,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 67136,
+        "poster_path": "https://image.tmdb.org/t/p/original//dTqz1n6hulCdevPIgJ43Ve05Qfd.jpg",
+        "median_color": [
+            227,
+            184,
+            142
+        ]
+    },
+    {
+        "year": 2018,
+        "name": "Black-ish",
+        "network": "ABC",
+        "season_number": 4,
+        "episodes": 23,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61381,
+        "poster_path": "https://image.tmdb.org/t/p/original//jNcmbFwBmLoK2fs3lPE0yk9E6QD.jpg",
+        "median_color": [
+            31,
+            30,
+            30
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Fleabag",
+        "network": "Amazon",
+        "season_number": 2,
+        "episodes": 6,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 67070,
+        "poster_path": "https://image.tmdb.org/t/p/original//o7ytmKNlOIcCyWXLdtDSRXi5Ruc.jpg",
+        "median_color": [
+            55,
+            28,
+            17
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Bodyguard",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 6,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 80307,
+        "poster_path": "https://image.tmdb.org/t/p/original//5DUJTrHTRLHLCKWriPhdusQogAv.jpg",
+        "median_color": [
+            34,
+            47,
+            56
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Game of Thrones",
+        "network": "HBO",
+        "season_number": 8,
+        "episodes": 6,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 1399,
+        "poster_path": "https://image.tmdb.org/t/p/original//259Q5FuaD3TNB7DGauTaJVRC8XV.jpg",
+        "median_color": [
+            11,
+            12,
+            12
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Veep",
+        "network": "HBO",
+        "season_number": 7,
+        "episodes": 7,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 2947,
+        "poster_path": "https://image.tmdb.org/t/p/original//xCPvYyx6qbw9ZUpa8qQt7jpbRp8.jpg",
+        "median_color": [
+            161,
+            173,
+            184
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Barry",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 73107,
+        "poster_path": "https://image.tmdb.org/t/p/original//eH8YB1FrH7h9PYPJT9z5n1xNCda.jpg",
+        "median_color": [
+            34,
+            4,
+            6
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Russian Doll",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 84977,
+        "poster_path": "https://image.tmdb.org/t/p/original//4WijEAbnGMJifP6uepGALci3Jf.jpg",
+        "median_color": [
+            113,
+            28,
+            23
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Killing Eve",
+        "network": "BBC America",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 72750,
+        "poster_path": "https://image.tmdb.org/t/p/original//hYAfTCzj1he4mQHBUleYwEGzeyx.jpg",
+        "median_color": [
+            21,
+            23,
+            63
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Pose",
+        "network": "FX",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 79084,
+        "poster_path": "https://image.tmdb.org/t/p/original//8Wh6TerAdkMgIhrGgaOkCZ3pyK0.jpg",
+        "median_color": [
+            182,
+            48,
+            153
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "The Marvelous Mrs. Maisel",
+        "network": "Amazon",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 70796,
+        "poster_path": "https://image.tmdb.org/t/p/original//4foiQ11AdU0NkjuDFlgXt9QcaZT.jpg",
+        "median_color": [
+            75,
+            82,
+            97
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//8zvIqLFOrBymKKI3L2W1AH8YZQI.jpg",
+        "median_color": [
+            32,
+            30,
+            30
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Ozark",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69740,
+        "poster_path": "https://image.tmdb.org/t/p/original//k9VHO9Btnj1D57kNIHWY9pl9Qcj.jpg",
+        "median_color": [
+            6,
+            19,
+            29
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Succession",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 76331,
+        "poster_path": "https://image.tmdb.org/t/p/original//hS62paPx7Ls3c6voXcXJzJNaTG4.jpg",
+        "median_color": [
+            35,
+            17,
+            13
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "The Good Place",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 66573,
+        "poster_path": "https://image.tmdb.org/t/p/original//3dJDT1dVSuHBYqWD0OLT1ZXeLq7.jpg",
+        "median_color": [
+            146,
+            115,
+            39
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "Schitt's Creek",
+        "network": "Pop TV",
+        "season_number": 5,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61662,
+        "poster_path": "https://image.tmdb.org/t/p/original//r0umn3K41EnEJTr50tTGWwShh2Y.jpg",
+        "median_color": [
+            122,
+            134,
+            95
+        ]
+    },
+    {
+        "year": 2019,
+        "name": "This Is Us",
+        "network": "NBC",
+        "season_number": 3,
+        "episodes": 18,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 67136,
+        "poster_path": "https://image.tmdb.org/t/p/original//mkmxasTggFi6X8I2CmQ4eFmCl0O.jpg",
+        "median_color": [
+            68,
+            41,
+            10
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Marvelous Mrs. Maisel",
+        "network": "Amazon",
+        "season_number": 3,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 70796,
+        "poster_path": "https://image.tmdb.org/t/p/original//kYAllJvFuxk2sVkItE1v1hko5hI.jpg",
+        "median_color": [
+            111,
+            53,
+            84
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Kominsky Method",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 81290,
+        "poster_path": "https://image.tmdb.org/t/p/original//sAPv7bUk4QgxGj44EjhwiLlensR.jpg",
+        "median_color": [
+            253,
+            248,
+            242
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Stranger Things",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 66732,
+        "poster_path": "https://image.tmdb.org/t/p/original//sDms9g40ZBhjMIfX9YqqaqId8sK.jpg",
+        "median_color": [
+            13,
+            3,
+            9
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Killing Eve",
+        "network": "BBC America",
+        "season_number": 3,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 72750,
+        "poster_path": "https://image.tmdb.org/t/p/original//ruroV8MLY6mMQGWouWdqh79am6n.jpg",
+        "median_color": [
+            93,
+            3,
+            3
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Mandalorian",
+        "network": "Disney+",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 82856,
+        "poster_path": "https://image.tmdb.org/t/p/original//K45A0qGcnGsxNKEvaOItvfVrZx.jpg",
+        "median_color": [
+            101,
+            70,
+            58
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 10,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//zvR2DpElEbBp05y8O3J0XtLd4X5.jpg",
+        "median_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Insecure",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 67883,
+        "poster_path": "https://image.tmdb.org/t/p/original//ixtcPMOlxrhG9AwE1F4l6PQyccl.jpg",
+        "median_color": [
+            95,
+            76,
+            75
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Dead to Me",
+        "network": "Netflix",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 81357,
+        "poster_path": "https://image.tmdb.org/t/p/original//l8OkHW6qQWca7wU0iBwA6k3WQ1.jpg",
+        "median_color": [
+            13,
+            75,
+            111
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "What We Do in the Shadows",
+        "network": "FX",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 83631,
+        "poster_path": "https://image.tmdb.org/t/p/original//qSrKsDrYLYkgqyDpavAGOFbkG8o.jpg",
+        "median_color": [
+            9,
+            25,
+            32
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//rW3PaeEDNB7H7pKrRfeTdSn647b.jpg",
+        "median_color": [
+            237,
+            237,
+            237
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Crown",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 65494,
+        "poster_path": "https://image.tmdb.org/t/p/original//uEkb5df5lYf1xCZPAe1IzcvoPfx.jpg",
+        "median_color": [
+            12,
+            50,
+            38
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Ozark",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69740,
+        "poster_path": "https://image.tmdb.org/t/p/original//lgHXzqpForw8qsMoC6pySkbpAUP.jpg",
+        "median_color": [
+            18,
+            26,
+            18
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Succession",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 76331,
+        "poster_path": "https://image.tmdb.org/t/p/original//hXuVhMxi3ZNzfBY8h7Hiiotmjiy.jpg",
+        "median_color": [
+            53,
+            34,
+            27
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Handmaid's Tale",
+        "network": "Hulu",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69478,
+        "poster_path": "https://image.tmdb.org/t/p/original//8K2GbvbRXKIazZaWZSPcF2CHurs.jpg",
+        "median_color": [
+            3,
+            1,
+            2
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "The Good Place",
+        "network": "NBC",
+        "season_number": 4,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 66573,
+        "poster_path": "https://image.tmdb.org/t/p/original//zqKria1aB9HYOdf847IrgsuEHD5.jpg",
+        "median_color": [
+            152,
+            149,
+            108
+        ]
+    },
+    {
+        "year": 2020,
+        "name": "Schitt's Creek",
+        "network": "Pop TV",
+        "season_number": 6,
+        "episodes": 14,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 61662,
+        "poster_path": "https://image.tmdb.org/t/p/original//u1QAuQ0D2bUiW3R23kbCZk1fNGE.jpg",
+        "median_color": [
+            154,
+            130,
+            109
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Kominsky Method",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 6,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 81290,
+        "poster_path": "https://image.tmdb.org/t/p/original//4OznmGyZIUAe9FKIi4qzzjQ6Wv.jpg",
+        "median_color": [
+            59,
+            24,
+            23
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Pose",
+        "network": "FX",
+        "season_number": 3,
+        "episodes": 7,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 79084,
+        "poster_path": "https://image.tmdb.org/t/p/original//zo682PgHPvZ0Fgy5li3UlLF79Cm.jpg",
+        "median_color": [
+            201,
+            183,
+            175
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Flight Attendant",
+        "network": "HBO Max",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 93287,
+        "poster_path": "https://image.tmdb.org/t/p/original//mX7AYmQxQTGevmP8nDV99diqkO7.jpg",
+        "median_color": [
+            228,
+            189,
+            166
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Boys",
+        "network": "Amazon",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 76479,
+        "poster_path": "https://image.tmdb.org/t/p/original//mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+        "median_color": [
+            73,
+            8,
+            18
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Mandalorian",
+        "network": "Disney+",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 82856,
+        "poster_path": "https://image.tmdb.org/t/p/original//pQ33MqEUEQGChyknPtvWODUza1q.jpg",
+        "median_color": [
+            14,
+            40,
+            63
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Bridgerton",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 91239,
+        "poster_path": "https://image.tmdb.org/t/p/original//qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",
+        "median_color": [
+            150,
+            153,
+            156
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Cobra Kai",
+        "network": "Netflix",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 77169,
+        "poster_path": "https://image.tmdb.org/t/p/original//f9ccj6MfeAsOk1qAqpifJwzxdfn.jpg",
+        "median_color": [
+            209,
+            186,
+            153
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Emily in Paris",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 82596,
+        "poster_path": "https://image.tmdb.org/t/p/original//xfoZfck4QOxVtRKffBfQAhTDWzb.jpg",
+        "median_color": [
+            182,
+            72,
+            116
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Hacks",
+        "network": "HBO Max",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 124101,
+        "poster_path": "https://image.tmdb.org/t/p/original//3G5OwUxs25GdQjbhIp9ah4gSLgW.jpg",
+        "median_color": [
+            77,
+            73,
+            84
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Ted Lasso",
+        "network": "Apple TV+",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 97546,
+        "poster_path": "https://image.tmdb.org/t/p/original//oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg",
+        "median_color": [
+            148,
+            187,
+            221
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Handmaid's Tale",
+        "network": "Hulu",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69478,
+        "poster_path": "https://image.tmdb.org/t/p/original//rMEinQPEzgFgf5UkeKjVjCSS8dc.jpg",
+        "median_color": [
+            52,
+            1,
+            2
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Lovecraft Country",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 82816,
+        "poster_path": "https://image.tmdb.org/t/p/original//8ptPi5yy5C3cyQ0xQ2YCGn3T9Nk.jpg",
+        "median_color": [
+            87,
+            25,
+            5
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "The Crown",
+        "network": "Netflix",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 65494,
+        "poster_path": "https://image.tmdb.org/t/p/original//7IbBxgYjpOp0i6BT1GRhrQ5EHBt.jpg",
+        "median_color": [
+            179,
+            120,
+            107
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "PEN\u00a015.00",
+        "network": "Hulu",
+        "season_number": 2,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 85702,
+        "poster_path": "https://image.tmdb.org/t/p/original//FLO3Yvo9KOwAWAC0TwAQmOEiyD.jpg",
+        "median_color": [
+            215,
+            171,
+            119
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "This Is Us",
+        "network": "NBC",
+        "season_number": 5,
+        "episodes": 16,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 67136,
+        "poster_path": "https://image.tmdb.org/t/p/original//ttyzaqFHMzKY9TfXUhvHBeRsKDD.jpg",
+        "median_color": [
+            196,
+            160,
+            131
+        ]
+    },
+    {
+        "year": 2021,
+        "name": "Black-ish",
+        "network": "ABC",
+        "season_number": 7,
+        "episodes": 21,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 61381,
+        "poster_path": "https://image.tmdb.org/t/p/original//gCYCFvu2qPFEx79jI1u2OKieSNm.jpg",
+        "median_color": [
+            92,
+            143,
+            135
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "The Marvelous Mrs. Maisel",
+        "network": "Amazon",
+        "season_number": 4,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 70796,
+        "poster_path": "https://image.tmdb.org/t/p/original//yxO0WKUwvk1w1Dvg5uuEmEyyr1.jpg",
+        "median_color": [
+            58,
+            37,
+            56
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Barry",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 73107,
+        "poster_path": "https://image.tmdb.org/t/p/original//j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+        "median_color": [
+            175,
+            176,
+            191
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Hacks",
+        "network": "HBO Max",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 124101,
+        "poster_path": "https://image.tmdb.org/t/p/original//q32wjcRi7Ix4DAqFA8kR7KGneyo.jpg",
+        "median_color": [
+            154,
+            154,
+            114
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Euphoria",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 85552,
+        "poster_path": "https://image.tmdb.org/t/p/original//jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
+        "median_color": [
+            86,
+            55,
+            44
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Squid Game",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 93405,
+        "poster_path": "https://image.tmdb.org/t/p/original//jlbrV1Kl4Y8pWXu12SppebRs7On.jpg",
+        "median_color": [
+            112,
+            119,
+            85
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Stranger Things",
+        "network": "Netflix",
+        "season_number": 4,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 66732,
+        "poster_path": "https://image.tmdb.org/t/p/original//5xiUqrCFgT6wU2KzynZMu5CXkM6.jpg",
+        "median_color": [
+            48,
+            23,
+            27
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Severance",
+        "network": "Apple TV+",
+        "season_number": 1,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 95396,
+        "poster_path": "https://image.tmdb.org/t/p/original//lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+        "median_color": [
+            139,
+            152,
+            126
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Succession",
+        "network": "HBO",
+        "season_number": 3,
+        "episodes": 9,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 76331,
+        "poster_path": "https://image.tmdb.org/t/p/original//zOFosA3Ew4xW9jsoWYU2ou16a5F.jpg",
+        "median_color": [
+            75,
+            82,
+            85
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 11,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//9qJ44sZsdgPXhg4T1y07bsnOgOm.jpg",
+        "median_color": [
+            30,
+            35,
+            53
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "What We Do in the Shadows",
+        "network": "FX",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 83631,
+        "poster_path": "https://image.tmdb.org/t/p/original//730b5KkOEakHugATwXDvYnWEZWL.jpg",
+        "median_color": [
+            32,
+            46,
+            139
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Only Murders in the Building",
+        "network": "Hulu",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 107113,
+        "poster_path": "https://image.tmdb.org/t/p/original//9N4gAQsSEqsXUh2oiVEmW9OG7oQ.jpg",
+        "median_color": [
+            112,
+            83,
+            29
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Yellowjackets",
+        "network": "Showtime",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 117488,
+        "poster_path": "https://image.tmdb.org/t/p/original//XtnjzjjFAnmTEiDk4xu7diCvMF.jpg",
+        "median_color": [
+            75,
+            77,
+            51
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Ted Lasso",
+        "network": "Apple TV+",
+        "season_number": 2,
+        "episodes": 12,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 97546,
+        "poster_path": "https://image.tmdb.org/t/p/original//39rtdG2QoPIOISmS6KNdJDes8vy.jpg",
+        "median_color": [
+            17,
+            77,
+            81
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Abbott Elementary",
+        "network": "ABC",
+        "season_number": 1,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 125935,
+        "poster_path": "https://image.tmdb.org/t/p/original//AsaunUQLjC4tnRVALu0D4jtzwFy.jpg",
+        "median_color": [
+            35,
+            53,
+            73
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 6,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+        "median_color": [
+            5,
+            0,
+            10
+        ]
+    },
+    {
+        "year": 2022,
+        "name": "Ozark",
+        "network": "Netflix",
+        "season_number": 4,
+        "episodes": 14,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 69740,
+        "poster_path": "https://image.tmdb.org/t/p/original//8VddwjSjvuHaoSw1wZ0mflB0Ckq.jpg",
+        "median_color": [
+            5,
+            82,
+            109
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "The White Lotus",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 7,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 111803,
+        "poster_path": "https://image.tmdb.org/t/p/original//zqcvTkB9k6uO7Q3uiEFdD7BOc9x.jpg",
+        "median_color": [
+            223,
+            183,
+            115
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Barry",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 73107,
+        "poster_path": "https://image.tmdb.org/t/p/original//oRlIr9yC2cFDzvoIsnQpJrQANmy.jpg",
+        "median_color": [
+            45,
+            30,
+            35
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Wednesday",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 119051,
+        "poster_path": "https://image.tmdb.org/t/p/original//ajACh2JtjPOS2jJFhuD30gI1o8a.jpg",
+        "median_color": [
+            36,
+            37,
+            79
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Jury Duty",
+        "network": "Amazon",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 222023,
+        "poster_path": "https://image.tmdb.org/t/p/original//vhKgKp4Naut4M6QHGbEnqtvNqrL.jpg",
+        "median_color": [
+            51,
+            101,
+            109
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "The Bear",
+        "network": "FX",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 136315,
+        "poster_path": "https://image.tmdb.org/t/p/original//l2NFRq7w6azQ2gyG0tDgJdkVACV.jpg",
+        "median_color": [
+            59,
+            45,
+            42
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "The Marvelous Mrs. Maisel",
+        "network": "Amazon",
+        "season_number": 5,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 70796,
+        "poster_path": "https://image.tmdb.org/t/p/original//aslKQXXydNQxSBvP7zzsbaNTIlF.jpg",
+        "median_color": [
+            74,
+            63,
+            78
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "The Last of Us",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 100088,
+        "poster_path": "https://image.tmdb.org/t/p/original//pMfG5XIlmvCL9bQQiJKdTvmF2FW.jpg",
+        "median_color": [
+            72,
+            68,
+            64
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Yellowjackets",
+        "network": "Showtime",
+        "season_number": 2,
+        "episodes": 9,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 117488,
+        "poster_path": "https://image.tmdb.org/t/p/original//o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg",
+        "median_color": [
+            130,
+            147,
+            131
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Only Murders in the Building",
+        "network": "Hulu",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 107113,
+        "poster_path": "https://image.tmdb.org/t/p/original//t6w2cytZltwN3qdc0ErZQgdxwOR.jpg",
+        "median_color": [
+            44,
+            96,
+            42
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "The Crown",
+        "network": "Netflix",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 65494,
+        "poster_path": "https://image.tmdb.org/t/p/original//tjUEdX1Pzn1VqNlpUduEnnhhRH4.jpg",
+        "median_color": [
+            98,
+            86,
+            77
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "House of the Dragon",
+        "network": "HBO",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 94997,
+        "poster_path": "https://image.tmdb.org/t/p/original//lx6hsqWXq4aVrXPjCqnMHFrGL5u.jpg",
+        "median_color": [
+            40,
+            23,
+            13
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Succession",
+        "network": "HBO",
+        "season_number": 4,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 76331,
+        "poster_path": "https://image.tmdb.org/t/p/original//rIGO15WSt2OcgSEYJEvJQJIY1Kj.jpg",
+        "median_color": [
+            99,
+            126,
+            153
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Ted Lasso",
+        "network": "Apple TV+",
+        "season_number": 3,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 97546,
+        "poster_path": "https://image.tmdb.org/t/p/original//7NS4VYNTm2J1XQk5OVUwImbV4vZ.jpg",
+        "median_color": [
+            27,
+            90,
+            143
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Andor",
+        "network": "Disney+",
+        "season_number": 1,
+        "episodes": 12,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 83867,
+        "poster_path": "https://image.tmdb.org/t/p/original//59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+        "median_color": [
+            146,
+            83,
+            58
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Better Call Saul",
+        "network": "AMC",
+        "season_number": 6,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 60059,
+        "poster_path": "https://image.tmdb.org/t/p/original//rbNc44otT6VRd7QpxqlUAMyByaQ.jpg",
+        "median_color": [
+            5,
+            0,
+            10
+        ]
+    },
+    {
+        "year": 2023,
+        "name": "Abbott Elementary",
+        "network": "ABC",
+        "season_number": 2,
+        "episodes": 22,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 125935,
+        "poster_path": "https://image.tmdb.org/t/p/original//nkktkKeIfzuQfuS6f2hXenoTtJz.jpg",
+        "median_color": [
+            118,
+            98,
+            71
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Slow Horses",
+        "network": "Apple TV+",
+        "season_number": 3,
+        "episodes": 6,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 95480,
+        "poster_path": "https://image.tmdb.org/t/p/original//vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg",
+        "median_color": [
+            89,
+            81,
+            69
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Hacks",
+        "network": "HBO Max",
+        "season_number": 3,
+        "episodes": 8,
+        "winner": "Yes",
+        "type": "Comedy",
+        "series_id": 124101,
+        "poster_path": "https://image.tmdb.org/t/p/original//p6nHSSHo2MI8qvhOxKbVL7ppTF4.jpg",
+        "median_color": [
+            88,
+            43,
+            14
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Mr. & Mrs. Smith",
+        "network": "Amazon",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 118642,
+        "poster_path": "https://image.tmdb.org/t/p/original//ht5Xx8YqOdpI5fsFXiNWEq20G3R.jpg",
+        "median_color": [
+            158,
+            113,
+            124
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "The Gilded Age",
+        "network": "HBO",
+        "season_number": 2,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 81723,
+        "poster_path": "https://image.tmdb.org/t/p/original//6X8uo7DziCSL4K8GJ3h2jYElNS1.jpg",
+        "median_color": [
+            65,
+            38,
+            14
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Fallout",
+        "network": "Amazon",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 106379,
+        "poster_path": "https://image.tmdb.org/t/p/original//AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+        "median_color": [
+            88,
+            78,
+            39
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "3 Body Problem",
+        "network": "Netflix",
+        "season_number": 1,
+        "episodes": 8,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 108545,
+        "poster_path": "https://image.tmdb.org/t/p/original//ppVfleDCXHvhqKKiycGRpitATOL.jpg",
+        "median_color": [
+            122,
+            87,
+            83
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Curb Your Enthusiasm",
+        "network": "HBO",
+        "season_number": 12,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 4546,
+        "poster_path": "https://image.tmdb.org/t/p/original//woJHGcDNh1AG66cVBMz5EJSMvNY.jpg",
+        "median_color": [
+            73,
+            116,
+            124
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "What We Do in the Shadows",
+        "network": "FX",
+        "season_number": 5,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 83631,
+        "poster_path": "https://image.tmdb.org/t/p/original//gOWCX91SGKmDZlsd6kpK6Ntki24.jpg",
+        "median_color": [
+            24,
+            13,
+            98
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Reservation Dogs",
+        "network": "FX",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 95215,
+        "poster_path": "https://image.tmdb.org/t/p/original//t6hqwD5oQRGgNrZKN71BQYxteC1.jpg",
+        "median_color": [
+            11,
+            123,
+            36
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Only Murders in the Building",
+        "network": "Hulu",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 107113,
+        "poster_path": "https://image.tmdb.org/t/p/original//yhx6PnU3L2a6FnEFGOlBKTZ8TSD.jpg",
+        "median_color": [
+            67,
+            57,
+            41
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "The Bear",
+        "network": "FX",
+        "season_number": 2,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 136315,
+        "poster_path": "https://image.tmdb.org/t/p/original//wXTfqXSjG0i4YaL3mEmQOTGO3uS.jpg",
+        "median_color": [
+            63,
+            50,
+            51
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Palm Royale",
+        "network": "Apple TV+",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 157367,
+        "poster_path": "https://image.tmdb.org/t/p/original//7WcJLCS31BiVYgvnh19lOjZoiiZ.jpg",
+        "median_color": [
+            236,
+            191,
+            156
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "The Crown",
+        "network": "Netflix",
+        "season_number": 6,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 65494,
+        "poster_path": "https://image.tmdb.org/t/p/original//pTtA9CxNwln23B7VrtROXphyhwo.jpg",
+        "median_color": [
+            11,
+            11,
+            13
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "The Morning Show",
+        "network": "Apple TV+",
+        "season_number": 3,
+        "episodes": 10,
+        "winner": "No",
+        "type": "Drama",
+        "series_id": 90282,
+        "poster_path": "https://image.tmdb.org/t/p/original//oTfAheayTCWoselYuty8D6Lem2t.jpg",
+        "median_color": [
+            178,
+            93,
+            34
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Sh\u014dgun",
+        "network": "FX",
+        "season_number": 1,
+        "episodes": 10,
+        "winner": "Yes",
+        "type": "Drama",
+        "series_id": 126308,
+        "poster_path": "https://image.tmdb.org/t/p/original//7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+        "median_color": [
+            40,
+            44,
+            41
+        ]
+    },
+    {
+        "year": 2024,
+        "name": "Abbott Elementary",
+        "network": "ABC",
+        "season_number": 3,
+        "episodes": 13,
+        "winner": "No",
+        "type": "Comedy",
+        "series_id": 125935,
+        "poster_path": "https://image.tmdb.org/t/p/original//11l2yxOAI1XHD9vTq6AAUJ5eW0g.jpg",
+        "median_color": [
+            98,
+            102,
+            120
+        ]
+    }
+]

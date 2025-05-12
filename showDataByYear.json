@@ -1,0 +1,203 @@
+{
+    "2000": {
+      "comedy_show_name": "Will & Grace",
+      "drama_show_name": "The West Wing",
+      "comedy_season_number": 2,
+      "drama_season_number": 1,
+      "comedy_episodes": 24,
+      "drama_episodes": 22
+    },
+    "2001": {
+      "comedy_show_name": "Sex and the City",
+      "drama_show_name": "The West Wing",
+      "comedy_season_number": 3,
+      "drama_season_number": 2,
+      "comedy_episodes": 18,
+      "drama_episodes": 22
+    },
+    "2002": {
+      "comedy_show_name": "Friends",
+      "drama_show_name": "The West Wing",
+      "comedy_season_number": 8,
+      "drama_season_number": 3,
+      "comedy_episodes": 24,
+      "drama_episodes": 21
+    },
+    "2003": {
+      "comedy_show_name": "Everybody Loves Raymond",
+      "drama_show_name": "The West Wing",
+      "comedy_season_number": 7,
+      "drama_season_number": 4,
+      "comedy_episodes": 25,
+      "drama_episodes": 23
+    },
+    "2004": {
+      "comedy_show_name": "Arrested Development",
+      "drama_show_name": "The Sopranos",
+      "comedy_season_number": 1,
+      "drama_season_number": 5,
+      "comedy_episodes": 22,
+      "drama_episodes": 13
+    },
+    "2005": {
+      "comedy_show_name": "Everybody Loves Raymond",
+      "drama_show_name": "Lost",
+      "comedy_season_number": 9,
+      "drama_season_number": 1,
+      "comedy_episodes": 16,
+      "drama_episodes": 25
+    },
+    "2006": {
+      "comedy_show_name": "The Office",
+      "drama_show_name": "24",
+      "comedy_season_number": 2,
+      "drama_season_number": 5,
+      "comedy_episodes": 22,
+      "drama_episodes": 24
+    },
+    "2007": {
+      "comedy_show_name": "30 Rock",
+      "drama_show_name": "The Sopranos",
+      "comedy_season_number": 1,
+      "drama_season_number": 6,
+      "comedy_episodes": 21,
+      "drama_episodes": 21
+    },
+    "2008": {
+      "comedy_show_name": "30 Rock",
+      "drama_show_name": "Mad Men",
+      "comedy_season_number": 2,
+      "drama_season_number": 1,
+      "comedy_episodes": 15,
+      "drama_episodes": 13
+    },
+    "2009": {
+      "comedy_show_name": "30 Rock",
+      "drama_show_name": "Mad Men",
+      "comedy_season_number": 3,
+      "drama_season_number": 2,
+      "comedy_episodes": 22,
+      "drama_episodes": 13
+    },
+    "2010": {
+      "comedy_show_name": "Modern Family",
+      "drama_show_name": "Mad Men",
+      "comedy_season_number": 1,
+      "drama_season_number": 3,
+      "comedy_episodes": 24,
+      "drama_episodes": 13
+    },
+    "2011": {
+      "comedy_show_name": "Modern Family",
+      "drama_show_name": "Mad Men",
+      "comedy_season_number": 2,
+      "drama_season_number": 4,
+      "comedy_episodes": 24,
+      "drama_episodes": 13
+    },
+    "2012": {
+      "comedy_show_name": "Modern Family",
+      "drama_show_name": "Homeland",
+      "comedy_season_number": 3,
+      "drama_season_number": 1,
+      "comedy_episodes": 24,
+      "drama_episodes": 12
+    },
+    "2013": {
+      "comedy_show_name": "Modern Family",
+      "drama_show_name": "Breaking Bad",
+      "comedy_season_number": 4,
+      "drama_season_number": 5,
+      "comedy_episodes": 24,
+      "drama_episodes": 16
+    },
+    "2014": {
+      "comedy_show_name": "Modern Family",
+      "drama_show_name": "Breaking Bad",
+      "comedy_season_number": 5,
+      "drama_season_number": 5,
+      "comedy_episodes": 24,
+      "drama_episodes": 16
+    },
+    "2015": {
+      "comedy_show_name": "Veep",
+      "drama_show_name": "Game of Thrones",
+      "comedy_season_number": 4,
+      "drama_season_number": 5,
+      "comedy_episodes": 10,
+      "drama_episodes": 10
+    },
+    "2016": {
+      "comedy_show_name": "Veep",
+      "drama_show_name": "Game of Thrones",
+      "comedy_season_number": 5,
+      "drama_season_number": 6,
+      "comedy_episodes": 10,
+      "drama_episodes": 10
+    },
+    "2017": {
+      "comedy_show_name": "Veep",
+      "drama_show_name": "The Handmaid’s Tale",
+      "comedy_season_number": 6,
+      "drama_season_number": 1,
+      "comedy_episodes": 10,
+      "drama_episodes": 10
+    },
+    "2018": {
+      "comedy_show_name": "The Marvelous Mrs. Maisel",
+      "drama_show_name": "Game of Thrones",
+      "comedy_season_number": 1,
+      "drama_season_number": 7,
+      "comedy_episodes": 8,
+      "drama_episodes": 7
+    },
+    "2019": {
+      "comedy_show_name": "The Marvelous Mrs. Maisel",
+      "drama_show_name": "Game of Thrones",
+      "comedy_season_number": 2,
+      "drama_season_number": 8,
+      "comedy_episodes": 10,
+      "drama_episodes": 6
+    },
+    "2020": {
+      "comedy_show_name": "Schitt's Creek",
+      "drama_show_name": "Succession",
+      "comedy_season_number": 6,
+      "drama_season_number": 2,
+      "comedy_episodes": 14,
+      "drama_episodes": 10
+    },
+    "2021": {
+      "comedy_show_name": "Ted Lasso",
+      "drama_show_name": "The Crown",
+      "comedy_season_number": 1,
+      "drama_season_number": 4,
+      "comedy_episodes": 10,
+      "drama_episodes": 10
+    },
+    "2022": {
+      "comedy_show_name": "Ted Lasso",
+      "drama_show_name": "Succession",
+      "comedy_season_number": 2,
+      "drama_season_number": 3,
+      "comedy_episodes": 12,
+      "drama_episodes": 9
+    },
+    "2023": {
+      "comedy_show_name": "The Bear",
+      "drama_show_name": "Succession",
+      "comedy_season_number": 1,
+      "drama_season_number": 4,
+      "comedy_episodes": 8,
+      "drama_episodes": 10
+    },
+    "2024": {
+      "comedy_show_name": "Hacks",
+      "drama_show_name": "Shōgun",
+      "comedy_season_number": 3,
+      "drama_season_number": 1,
+      "comedy_episodes": 9,
+      "drama_episodes": 10
+    }
+  }
+  

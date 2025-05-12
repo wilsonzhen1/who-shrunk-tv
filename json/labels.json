@@ -1,0 +1,104 @@
+[
+  {
+    "series": "Bridgerton",
+    "season": 2.0,
+    "date": "2022-03-25",
+    "episodes": 8
+  },
+  {
+    "series": "Bridgerton",
+    "season": 3.0,
+    "date": "2024-05-16",
+    "episodes": 8
+  },
+  {
+    "series": "Manifest",
+    "season": 4.0,
+    "date": "2022-11-04",
+    "episodes": 20
+  },
+  {
+    "series": "Stranger Things",
+    "season": 4.0,
+    "date": "2022-05-27",
+    "episodes": 9
+  },
+  {
+    "series": "Stranger Things",
+    "season": 5.0,
+    "date": "2025-11-27",
+    "episodes": 8
+  },
+  {
+    "series": "Wednesday",
+    "season": 1.0,
+    "date": "2022-11-23",
+    "episodes": 8
+  },
+  {
+    "series": "The Night Agent",
+    "season": 1.0,
+    "date": "2023-03-23",
+    "episodes": 10
+  },
+  {
+    "series": "The Night Agent",
+    "season": 2.0,
+    "date": "2025-01-23",
+    "episodes": 10
+  },
+  {
+    "series": "Maid",
+    "season": 1.0,
+    "date": "2021-10-01",
+    "episodes": 10
+  },
+  {
+    "series": "Ozark",
+    "season": 4.0,
+    "date": "2022-01-21",
+    "episodes": 7
+  },
+  {
+    "series": "Ozark",
+    "season": 4.5,
+    "date": "2022-04-29",
+    "episodes": 7
+  },
+  {
+    "series": "The Lincoln Lawyer",
+    "season": 1.0,
+    "date": "2022-05-13",
+    "episodes": 10
+  },
+  {
+    "series": "The Lincoln Lawyer",
+    "season": 2.1,
+    "date": "2023-07-06",
+    "episodes": 5
+  },
+  {
+    "series": "The Lincoln Lawyer",
+    "season": 2.2,
+    "date": "2023-08-03",
+    "episodes": 5
+  },
+  {
+    "series": "Firefly Lane",
+    "season": 2.1,
+    "date": "2022-12-02",
+    "episodes": 9
+  },
+  {
+    "series": "Firefly Lane",
+    "season": 2.2,
+    "date": "2023-04-27",
+    "episodes": 7
+  },
+  {
+    "series": "Inventing Anna",
+    "season": 1.0,
+    "date": "2022-02-11",
+    "episodes": 9
+  }
+]
