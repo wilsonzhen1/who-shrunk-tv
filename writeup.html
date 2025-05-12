@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Writeup: Who Shrunk Television?</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Lexend', sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h2 {
+      margin-top: 2em;
+    }
+    p {
+      margin-bottom: 1.2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Who Shrunk Television? — Project Writeup</h1>
+
+  <h2>Introduction / Motivation</h2>
+  <p>
+    The rise of streaming services and their focus on “bingeable” content has reshaped the entertainment industry. One visible result is the shortening of TV seasons.
+  </p>
+  <p>
+    In 2023, the Writers Guild of America went on strike, partly to protest a years-long trend: American TV series releasing fewer episodes per season, reducing pay for writers. We set out to confirm or challenge this claim, recognizing that its implications go beyond the industry. The trend may reflect shifting audience attention spans and broader cultural and economic changes in how media is created and consumed.
+  </p>
+  <p>
+    We hypothesize that the dominance of streaming platforms, especially Netflix, has pushed both the industry and many audiences toward shorter episodes and seasons.
+  </p>
+
+  <h2>Related Work</h2>
+  <p>
+    Our approach was modeled after visual essays from <a href="https://pudding.cool/" target=" _blank"><em>The Pudding</em></a>, including <a href="https://pudding.cool/2024/11/love-songs/" target="_blank"> <em>love songs</em></a>,  <a href="https://pudding.cool/2018/08/filmordigital/" target=" _blank"><em>FILM OR DIGITAL?</em></a>, and  <a href="https://pudding.cool/2017/06/film-trends/" target=" _blank"><em>Analyzing plot trends for every top-grossing film from the past 50 years</em></a>. These projects show how data-driven storytelling about media can be accessible, engaging, and compelling.
+  </p>
+
+  <h2>Methodology</h2>
+  <p>
+    To evaluate our hypotheses about shrinking season lengths and changing viewer behavior, we analyzed the issue from three perspectives: critics, networks, and consumers.
+  </p>
+  <p>
+    From the critics’ angle, we focused on Emmy winners in Drama and Comedy, using a scatter plot to track how episode counts of winning series changed over time.
+  </p>
+  <p>
+    For networks, we created a stacked bar graph showing the distribution of Emmy-winning and nominated shows by platform, again in Drama and Comedy.
+  </p>
+  <p>
+    From the consumer side, we used a multi-line graph and a time series plot to explore whether shorter, often cheaper-to-produce seasons correlated with higher viewership.
+  </p>
+  <p>
+    Our Netflix data spans 2021–2025, a period marked by major shifts in production and distribution. Data about series, seasons, and episode lengths came from TMDB and covers 2000–2024.
+  </p>
+
+  <h2>Design</h2>
+  <p>
+    Inspired by narrative data projects, we explored production trends through a storytelling lens. To humanize large-scale data, we incorporated social media posts about season lengths and used scrollytelling and interactivity to boost engagement.
+  </p>
+  <p>
+    Our initial visualization used a bubble plot linked to a line graph of average episode counts by year and country. Feedback showed these were too cluttered and hard to interpret.
+  </p>
+  <p>
+    In response, we simplified our visuals: a scatter plot for critics, a stacked bar graph for networks, and a time series chart for consumers. These clearer formats better conveyed the perspectives of critics, networks, and viewers. Some visuals, like the scatter plot, also invite users to explore the data themselves.
+  </p>
+
+  <h2>Implementation</h2>
+  <p>
+    We pulled show metadata from the TMDB (<a href="https://www.themoviedb.org/?language=en-US" target="_blank">The Movie Database</a>) API and sourced Netflix’s top 10 shows from their site. To manage computational limits, we used a GitHub Actions script to fetch and store data in our repository.
+  </p>
+  <p>
+    We cleaned the data using Python’s pandas and built early visuals with matplotlib. Final visualizations were built in D3.js and embedded in a digital essay format.
+  </p>
+
+  <h2>Discussion</h2>
+  <p>
+    Feedback on our revised visuals was largely positive. Viewers found them clearer and more readable than earlier versions. Some still found the overall message unclear, so we reorganized the essay to foreground key insights, especially how the industry-wide shift to shorter seasons appears in both critical and consumer data.
+  </p>
+  <p>
+    Our analysis confirmed several patterns. TV seasons have shortened over time, particularly on platforms like Netflix and Hulu. While cost-effective for the industry, this raises a key question: how do viewers feel?
+  </p>
+  <p>
+    Netflix viewership data revealed notable trends. Very short seasons (under 6 episodes) tended to have lower global viewership. Longer seasons (over 15 episodes) also showed a drop in normalized viewership, suggesting audiences may lose interest when seasons drag on. A sweet spot emerged at 8–10 episodes, as these seasons consistently had the highest normalized viewership per episode and consistently hit Netflix’s top ten most watched shows.
+  </p>
+
+  <h2>Future Work</h2>
+  <p>
+    We see several directions to expand this project. First, sentiment analysis on platforms like Twitter and Reddit could reveal emotional responses, nostalgia, frustration, or satisfaction, toward shorter seasons.
+  </p>
+  <p>
+    Second, expanding our TMDB dataset to include international series could help determine whether this trend is uniquely American or global.
+  </p>
+  <p>
+    Finally, refining the structure and layout of our digital essay could improve clarity and engagement. Stronger alignment between visuals and narrative, clearer takeaways, and better interactivity would enhance impact.
+  </p>
+
+  <h2>Acknowledgements / References</h2>
+  <p>
+    This project was inspired by a desire to understand the decline of <a href="https://seriesmania.com/en/festival/are-the-long-running-tv-series-going-extinct/#:~:text=They%20functioned%20primarily%20by%20giving,%2D10%20episodes%20on%20average" target="_blank">long-running television series</a> and <a href="https://www.theringer.com/2017/08/04/tv/inefficiency-week-mourning-the-lost-long-tv-season" target="_blank">television seasons</a>, and what shrinking seasons suggest about evolving viewer preferences. We thank Professor Christian Swinehart, guest reviewers, and classmates for their feedback. Data sources include TMDB, Netflix, and the Emmy Awards archives. Visual and storytelling inspiration came from <em>The Pudding</em> and other narrative data journalism projects.
+  </p>
+</body>
+</html>
