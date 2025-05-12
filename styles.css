@@ -247,7 +247,7 @@ body {
 }
 
 #scatterplot-chart img {
-    max-width: 100%;
+    max-width: 80%;
     border-radius: 8px;
     margin-bottom: 10px;
 }
@@ -369,6 +369,7 @@ body {
 
 #global-scatter-section {
     position: relative;
+    margin: 50px;
 }
 
 #chart-global-scatter {
@@ -526,4 +527,10 @@ hr {
   }
   
   
-  
+  .time-series-charts {
+    margin: 50px;
+  }
+
+  .scatterplot-section {
+    margin: 25px;
+  }
