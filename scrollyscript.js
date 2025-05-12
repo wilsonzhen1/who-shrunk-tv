@@ -379,7 +379,7 @@ document.addEventListener("DOMContentLoaded", function () {
             .attr("width", x.bandwidth() / 2)
             .attr("height", blockHeight)
             .attr("fill", colors[name])
-            .attr("opacity", value / 25);
+            // .attr("opacity", value / 25);
         });
   
       bestDramaName

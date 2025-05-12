@@ -201,9 +201,12 @@ body {
 
 /* Scatterplot Controls */
 #scatterplot-controls {
+    width: 70%;
     font-family: "Lexend", sans-serif;
     font-size: 14px;
+    margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 85px;
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
@@ -222,17 +225,17 @@ body {
 
 /* Scatterplot Chart Wrapper */
 #scatterplot-chart {
+    align-items: center;
     display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-    align-items: flex-start;
+    justify-content: center;
 }
 
 /* Chart SVG Styling */
 #scatterplot-chart svg {
     flex: 1 1 65%;
-    border-radius: 8px;
-    background: #fefefe;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 8px; */
+    /* background: #fefefe; */
 }
 
 /* Info Panel on the right */
@@ -353,11 +356,10 @@ body {
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
 }
 
-#scatter-plot-section {
+.scatter-plot-section {
     margin-top: 3rem;
     padding: 1rem;
-    background: #fafafa;
-    border-radius: 0.5rem;
+    /* background: #fafafa; */
 }
 
 #chart-global-scatter {
@@ -518,6 +520,12 @@ hr {
     stroke: black;
     stroke-width: 2px;
   }
+
+  .network-hovered {
+    stroke: black;
+    stroke-width: 2px;
+  }
+  
   
   .time-series-charts {
     margin: 50px;

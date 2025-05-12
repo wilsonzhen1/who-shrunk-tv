@@ -48,7 +48,7 @@ function setupControls(data) {
     const toggleWrap = controls.append("div")
       .style("display", "flex")
       .style("align-items", "center")
-      .style("margin-bottom", "12px");
+      // .style("margin-bottom", "12px");
   
     toggleWrap.append("input")
       .attr("type", "checkbox")
@@ -116,13 +116,28 @@ function setupTypeFilter(data) {
       label.append("input")
         .attr("type", "checkbox")
         .attr("class", "network-checkbox")
+        .style("accent-color", networkColors[network])
         .attr("value", network)
         .property("checked", true)
         .on("change", function () {
           const allChecked = d3.selectAll(".network-checkbox").nodes().every(cb => cb.checked);
           d3.select("#selectAllNetworks").property("checked", allChecked);
           updateChart();
-        });
+        })
+        .on("mouseover", function () {
+          d3.selectAll("circle").each(function(e) {
+            if ((e.network === network)) {
+              d3.select(this).classed("network-hovered", true);
+            }
+          });
+        })
+        .on("mouseout", function () {
+          d3.selectAll("circle").each(function(e) {
+            if (d3.select(this).classed("network-hovered")) {
+              d3.select(this).classed("network-hovered", false);
+            }
+          });
+        })
       label.append("span").text(network);
     });
   } else {
