@@ -359,7 +359,7 @@ body {
 .scatter-plot-section {
     margin-top: 3rem;
     padding: 1rem;
-    background: #fafafa;
+    /* background: #fafafa; */
 }
 
 #chart-global-scatter {
